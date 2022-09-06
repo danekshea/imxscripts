@@ -39,6 +39,18 @@ npx ts-node ./src/get/get-user-assets.ts -a <WALLET_ADDRESS> --network <NETWORK>
 npx ts-node ./src/get/get-user.ts -a <WALLET_ADDRESS> --network <NETWORK>
 ```
 
+#### Retrieve a burn
+
+```
+npx ts-node ./src/get/get-burn.ts --tx_id <TRANSACTION_ID> --network <NETWORK>
+```
+
+#### Retrieve a burn
+
+```
+npx ts-node ./src/get/get-order.ts --tx_id 110211 --network ropsten
+```
+
 ### POST Requests
 
 #### Burn ERC20

@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-import yargs from 'yargs';
 import { getClient } from '../client';
 import { ImmutableMethodResults } from '@imtbl/imx-sdk';
 
