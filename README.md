@@ -42,13 +42,13 @@ npx ts-node ./src/get/get-user.ts -a <WALLET_ADDRESS> --network <NETWORK>
 #### Retrieve a burn
 
 ```
-npx ts-node ./src/get/get-burn.ts --tx_id <TRANSACTION_ID> --network <NETWORK>
+npx ts-node ./src/get/get-burn.ts --id <TRANSACTION_ID> --network <NETWORK>
 ```
 
-#### Retrieve a burn
+#### Retrieve an order
 
 ```
-npx ts-node ./src/get/get-order.ts --tx_id 110211 --network ropsten
+npx ts-node ./src/get/get-order.ts --id <ORDER_ID> --network <NETWORK>
 ```
 
 ### POST Requests
