@@ -51,6 +51,12 @@ npx ts-node ./src/get/get-burn.ts --id <TRANSACTION_ID> --network <NETWORK>
 npx ts-node ./src/get/get-order.ts --id <ORDER_ID> --network <NETWORK>
 ```
 
+#### Retrieve an asset
+
+```
+npx ts-node ./src/get/get-asset.ts -t <TOKEN_ID> -s <SMART_CONTRACT_ADDRESS> --network <NETWORK>
+```
+
 ### POST Requests
 
 #### Burn ERC20
