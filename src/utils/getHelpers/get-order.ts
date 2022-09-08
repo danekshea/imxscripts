@@ -3,7 +3,7 @@ import { getClient } from '../client';
 import { ImmutableMethodResults } from '@imtbl/imx-sdk';
 
 /**
- * Return the users current asset holding.
+ * Return the order by ID.
  */
 export async function getOrder(id: number, network: string): Promise<ImmutableMethodResults.ImmutableGetOrderResult> {
     const client = await getClient(network);
