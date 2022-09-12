@@ -28,5 +28,6 @@ export async function getSigner(network: string, privateKey: string)
   : Promise<Wallet> {
       const provider = new ethers.providers.JsonRpcProvider((network == "mainnet") ? process.env.MAINNET_ETH_PROVIDER_URL : process.env.ROPSTEN_ETH_PROVIDER_URL);
       const signer = new Wallet(privateKey).connect(provider)
+      ethers.utils.verifyMessage
       return signer
 }
