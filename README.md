@@ -236,7 +236,6 @@ npx ts-node ./src/post/transfer-ERC20.ts \
   -d <DECIMALS> \
   -y <SYMBOL> \
   -s <SMART_CONTRACT_ADDRESS> \
-  --step prepare \
   --network <NETWORK>
 ```
 
