@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@ethersproject/providers": "^5.4.5",
-    "@imtbl/imx-sdk": "^1.10.2",
+    "@imtbl/imx-sdk": "^1.27.0",
     "@openzeppelin/contracts": "^4.5.0",
     "@types/node": "^12.20.16",
     "axios": "^0.21.1",
