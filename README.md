@@ -57,6 +57,12 @@ npx ts-node ./src/get/get-order.ts --id <ORDER_ID> --network <NETWORK>
 npx ts-node ./src/get/get-asset.ts -t <TOKEN_ID> -s <SMART_CONTRACT_ADDRESS> --network <NETWORK>
 ```
 
+#### Retrieve mintable token(includes blueprint)
+
+```
+npx ts-node ./src/get/get-mintabletoken.ts -t <TOKEN_ID> -s <SMART_CONTRACT_ADDRESS> --network <NETWORK>
+```
+
 ### POST Requests
 
 #### Burn ERC20
