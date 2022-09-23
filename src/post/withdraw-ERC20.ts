@@ -22,7 +22,7 @@ const argv = yargs(process.argv.slice(2))
     y: { describe: 'symbol', type: 'string', demandOption: true },
     t: { describe: 'token address', type: 'string', demandOption: true },
     step: { describe: 'step in the withdrawal process. prepare or complete', type: 'string', demandOption: true},
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
     })
   .parseSync();
 

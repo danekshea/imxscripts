@@ -15,7 +15,7 @@ interface MintResponse {
  * @returns 
  */
 export async function getMint(mintID: number): Promise<MintResponse[]> {
-  const url = `https://api.ropsten.x.immutable.com/v1/mints/${mintID}`;
+  const url = `https://api.sandbox.x.immutable.com/v1/mints/${mintID}`;
   const { data } = await axios.request({ url });
   return data;
 }

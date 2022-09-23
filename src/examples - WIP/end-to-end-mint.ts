@@ -13,7 +13,7 @@ async function main(ownerPrivateKey:string, network:string) {
     await compileContract();
 
     //Deploy the contract with the below parameters. 5m gas limit and 60gwei gas price seems to work fine for the NFT contracts. 
-    //Make sure you have enough ropsten ETH on this address. Check out https://imxfaucet.xyz/ to get some.
+    //Make sure you have enough sandbox ETH on this address. Check out https://imxfaucet.xyz/ to get some.
     //TODO: add error handling for the user not having enough funds in wallet
     const deployedContract = await deployContract(ownerPrivateKey, 'Asset', 'Contract Name', 'SYMBOL', network, '5000000', '60000000000');
     console.log('Deployed contract address: ' + deployedContract.address)
@@ -48,7 +48,7 @@ const argv = yargs(process.argv.slice(2))
   .usage('Usage: -k <PRIVATE_KEY> --network <NETWORK>')
   .options({
     k: { describe: 'wallet private key', type: 'string', demandOption: true },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 

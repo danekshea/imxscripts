@@ -27,7 +27,7 @@ const argv = yargs(process.argv.slice(2))
     k: { describe: 'wallet private key', type: 'string', demandOption: true },
     a: { describe: 'eth amount', type: 'string', demandOption: true },
     step: { describe: 'step in the withdrawal process. prepare or complete', type: 'string', demandOption: true},
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 

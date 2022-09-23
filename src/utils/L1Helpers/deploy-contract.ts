@@ -10,5 +10,5 @@ export async function deployContract(ownerPrivateKey: string, contract:string, n
     const contractFactory = await  hre.ethers.getContractFactory(contract, signer);
 
     // Deploy said contract to the specified network using HardHat, defines the owner as the address for the private key, could be defined as someone else
-    return await contractFactory.deploy(signer.address, name, symbol, (network == "mainnet") ? process.env.MAINNET_STARK_CONTRACT_ADDRESS : process.env.ROPSTEN_STARK_CONTRACT_ADDRESS, {gasLimit: gasLimit, gasPrice: gasPrice});
+    return await contractFactory.deploy(signer.address, name, symbol, (network == "mainnet") ? process.env.MAINNET_STARK_CONTRACT_ADDRESS : process.env.SANDBOX_STARK_CONTRACT_ADDRESS, {gasLimit: gasLimit, gasPrice: gasPrice});
 }

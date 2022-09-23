@@ -31,26 +31,26 @@ let rl = readline.createInterface({
 
 async function accept (){
     //(4.accept) escrow_wallet1 trade to user_2 
-    const result3 = await sellNFT(escrow1_pk, tokenAddress, tokenid1, saleAmount, "ropsten");
+    const result3 = await sellNFT(escrow1_pk, tokenAddress, tokenid1, saleAmount, "sandbox");
     console.log("escrow_wallet_1 sell order open: ", result3);
-    const result4 = await buyNFT(user2_pk, tokenid1, tokenAddress, saleAmount, result3.order_id, "ropsten");
+    const result4 = await buyNFT(user2_pk, tokenid1, tokenAddress, saleAmount, result3.order_id, "sandbox");
     console.log("user_2 buy from escrow_wallet_1", result4);
     
     //(4.accept) escrow_wallet2 trade to user_1
-    const result5 = await sellNFT(escrow2_pk, tokenAddress, tokenid2, saleAmount, "ropsten");
+    const result5 = await sellNFT(escrow2_pk, tokenAddress, tokenid2, saleAmount, "sandbox");
     console.log("escrow_wallet_2 sell order open: ", result5);
-    const result6 = await buyNFT(user1_pk, tokenid2, tokenAddress, saleAmount, result5.order_id, "ropsten");
+    const result6 = await buyNFT(user1_pk, tokenid2, tokenAddress, saleAmount, result5.order_id, "sandbox");
     console.log("user_2 buy from escrow_wallet_1", result6);
     exit;
 }
 
 async function deny (){
     //(1) user_1 transfer NFT to escrow_wallet_1 
-    const result1 = await transferNFT(escrow1_pk, user1_adr, tokenid1, tokenAddress, "ropsten");
+    const result1 = await transferNFT(escrow1_pk, user1_adr, tokenid1, tokenAddress, "sandbox");
     console.log("user_1 transfer NFT to escrow_wallet_1: ", result1);
 
     //(2) user_2 transfer NFT to escrow_wallet_2 
-    const result2 = await transferNFT(escrow2_pk, user2_adr, tokenid2, tokenAddress, "ropsten");
+    const result2 = await transferNFT(escrow2_pk, user2_adr, tokenid2, tokenAddress, "sandbox");
     console.log("user_2 transfer NFT to escrow_wallet_2: ", result2);
     exit;
 }
@@ -58,11 +58,11 @@ async function deny (){
 
 async function main (){
     //(1) user_1 transfer NFT to escrow_wallet_1 
-    const result1 = await transferNFT(user1_pk, escrow1_adr, tokenid1, tokenAddress, "ropsten");
+    const result1 = await transferNFT(user1_pk, escrow1_adr, tokenid1, tokenAddress, "sandbox");
     console.log("user_1 transfer NFT to escrow_wallet_1: ", result1);
 
     //(2) user_2 transfer NFT to escrow_wallet_2 
-    const result2 = await transferNFT(user2_pk, escrow2_adr, tokenid2, tokenAddress, "ropsten");
+    const result2 = await transferNFT(user2_pk, escrow2_adr, tokenid2, tokenAddress, "sandbox");
     console.log("user_2 transfer NFT to escrow_wallet_2: ", result2);
 
     //(3) Logic to accept/deny the trade. Example uses simple switch statement

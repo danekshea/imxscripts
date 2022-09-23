@@ -15,7 +15,7 @@ const argv = yargs(process.argv.slice(2))
     n: { describe: 'name', type: 'string', demandOption: true },
     c: { describe: 'company name', type: 'string', demandOption: true },
     e: { describe: 'contact email', type: 'string', demandOption: true },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 

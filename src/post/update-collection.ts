@@ -17,7 +17,7 @@ const argv = yargs(process.argv.slice(2))
     d: { describe: 'description', type: 'string', demandOption: false },
     i: { describe: 'icon url', type: 'string', demandOption: false },
     o: { describe: 'collection image url', type: 'string', demandOption: false },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 

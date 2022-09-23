@@ -10,7 +10,7 @@ async function main(tx_id: number, network: string) {
     .usage('Usage: --id <OPRDER_ID> --network <NETWORK>')
     .options({ 
     id: { describe: 'order id', type: 'number', demandOption: true },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}})
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}})
     .parseSync();
   
   main(argv.id, argv.network)

@@ -12,13 +12,13 @@ dotenv.config();
  */
 export async function getClient(network: string, privateKey?: string, gasLimit?: string, gasPrice?: string)
   : Promise<ImmutableXClient> {
-      const provider = new ethers.providers.JsonRpcProvider((network == "mainnet") ? process.env.MAINNET_ETH_PROVIDER_URL : process.env.ROPSTEN_ETH_PROVIDER_URL);
+      const provider = new ethers.providers.JsonRpcProvider((network == "mainnet") ? process.env.MAINNET_ETH_PROVIDER_URL : process.env.SANDBOX_ETH_PROVIDER_URL);
       const signer = privateKey ? new Wallet(privateKey).connect(provider) : undefined
       return await ImmutableXClient.build({ 
-        publicApiUrl: (network == "mainnet") ? process.env.MAINNET_ENV_URL! :  process.env.ROPSTEN_ENV_URL!,
+        publicApiUrl: (network == "mainnet") ? process.env.MAINNET_ENV_URL! :  process.env.SANDBOX_ENV_URL!,
         signer,
-        starkContractAddress: (network == "mainnet") ? process.env.MAINNET_STARK_CONTRACT_ADDRESS : process.env.ROPSTEN_STARK_CONTRACT_ADDRESS,
-        registrationContractAddress: (network == "mainnet") ? process.env.MAINNET_REGISTRATION_CONTRACT_ADDRESS : process.env.ROPSTEN_REGISTRATION_CONTRACT_ADDRESS,
+        starkContractAddress: (network == "mainnet") ? process.env.MAINNET_STARK_CONTRACT_ADDRESS : process.env.SANDBOX_STARK_CONTRACT_ADDRESS,
+        registrationContractAddress: (network == "mainnet") ? process.env.MAINNET_REGISTRATION_CONTRACT_ADDRESS : process.env.SANDBOX_REGISTRATION_CONTRACT_ADDRESS,
         gasLimit: gasLimit ? gasLimit : undefined,
         gasPrice: gasPrice ? gasPrice : undefined
   })
@@ -26,7 +26,7 @@ export async function getClient(network: string, privateKey?: string, gasLimit?:
 
 export async function getSigner(network: string, privateKey: string)
   : Promise<Wallet> {
-      const provider = new ethers.providers.JsonRpcProvider((network == "mainnet") ? process.env.MAINNET_ETH_PROVIDER_URL : process.env.ROPSTEN_ETH_PROVIDER_URL);
+      const provider = new ethers.providers.JsonRpcProvider((network == "mainnet") ? process.env.MAINNET_ETH_PROVIDER_URL : process.env.SANDBOX_ETH_PROVIDER_URL);
       const signer = new Wallet(privateKey).connect(provider)
       ethers.utils.verifyMessage
       return signer

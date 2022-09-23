@@ -26,7 +26,7 @@ const argv = yargs(process.argv.slice(2))
   .usage('Usage: -a <ADDRESS>')
   .options({ 
   a: { alias: 'address', describe: 'wallet address', type: 'string', demandOption: true },
-  network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}})
+  network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}})
   .parseSync();
 
 main(argv.a, argv.network)

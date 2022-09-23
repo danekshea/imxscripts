@@ -2,7 +2,7 @@
  Note: this script is only meant to serve as an example of the trading flow. Due to the nature of on-chain
  transactions, it may not work by itself.
  
- Prerequisite: wallet with test eth on ropsten network
+ Prerequisite: wallet with test eth on sandbox network
  
  Trading flow:
  - register two wallets on Immutable X
@@ -143,7 +143,7 @@ async function buyNFT(client: ImmutableXClient, user: string, contract_address: 
 }
 
 async function main() {
-    const provider = new ethers.providers.JsonRpcProvider('https://eth-ropsten.alchemyapi.io/v2/<ALCHEMY_API_KEY>');
+    const provider = new ethers.providers.JsonRpcProvider('https://eth-sandbox.alchemyapi.io/v2/<ALCHEMY_API_KEY>');
 
     const minterPrivateKey = '<YOUR_PRIVATE_KEY>';
     const minter = new ethers.Wallet(minterPrivateKey).connect(provider);
@@ -161,7 +161,7 @@ async function main() {
     await registerUser(buyerClient, buyer);
     await registerUser(sellerClient, seller);
 
-    // Transfer eth from your wallet to the buyer wallet on ropsten network
+    // Transfer eth from your wallet to the buyer wallet on sandbox network
     const walletPrivateKey = '<PK_WALLET_WITH_TEST_ETH>';
     const wallet = new ethers.Wallet(walletPrivateKey).connect(provider);
     console.log("Sending 0.05 eth from", wallet.address, "to", buyer.address);

@@ -9,7 +9,7 @@ interface UserResponse {
 
 /**
  * Given a wallet address checks to see if that address is registered
- * on the Ropsten environment.
+ * on the sandbox environment.
  * @param walletAddress 
  */
 async function isRegistered(walletAddress: string, network:string): Promise<boolean> {
@@ -28,7 +28,7 @@ const argv = yargs(process.argv.slice(2))
   .usage('Usage: -a <ADDRESS>')
   .options({ 
   a: { alias: 'address', describe: 'wallet address', type: 'string', demandOption: true },
-  network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}})
+  network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}})
   .parseSync();
 
 

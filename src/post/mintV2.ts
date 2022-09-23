@@ -16,7 +16,7 @@ const argv = yargs(process.argv.slice(2))
     s: { describe: 'smart contract address', type: 'string', demandOption: true },
     b: { describe: 'blueprint', type: 'string', demandOption: true },
     r: { describe: 'receiver address', type: 'string', demandOption: true },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 

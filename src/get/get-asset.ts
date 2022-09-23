@@ -12,7 +12,7 @@ async function main(tokenid: string, contractadddress: string, network: string, 
     t: { describe: 'token id', type: 'string', demandOption: true },
     s: { describe: 'smart contract address', type: 'string', demandOption: true },
     f: { describe: 'include fees', type: 'boolean', demandOption: false },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}})
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}})
     .parseSync();
   
   main(argv.t, argv.s, argv.network, argv.f)

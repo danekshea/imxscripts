@@ -17,7 +17,7 @@ const argv = yargs(process.argv.slice(2))
     y: { describe: 'symbol', type: 'string', demandOption: true },
     g: { describe: 'gas limit', type: 'string', demandOption: true },
     p: { describe: 'gas price', type: 'string', demandOption: true },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 

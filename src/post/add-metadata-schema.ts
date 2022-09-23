@@ -13,7 +13,7 @@ const argv = yargs(process.argv.slice(2))
   .options({
     k: { describe: 'wallet private key', type: 'string', demandOption: true },
     s: { describe: 'smart contract address', type: 'string', demandOption: true },
-    network: { describe: 'network. ropsten or mainnet', type: 'string', demandOption: true}
+    network: { describe: 'network. sandbox or mainnet', type: 'string', demandOption: true}
   })
   .parseSync();
 
