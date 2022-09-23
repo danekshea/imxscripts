@@ -68,7 +68,7 @@ async function getClient(w: ethers.Wallet)
     : Promise<ImmutableXClient> {
     const wallet = new ImmutableXWallet(w);
     await wallet.controller.account('starkex', 'immutablex', '1');
-    return new ImmutableXClient('https://api.ropsten.x.immutable.com/v1/', wallet, {} as any, {} as any, {} as any, {} as any);
+    return new ImmutableXClient('https://api.sandbox.x.immutable.com/v1/', wallet, {} as any, {} as any, {} as any, {} as any);
 }
 
 async function getUserInventory(client: ImmutableXClient, user: string) {
@@ -78,7 +78,7 @@ async function getUserInventory(client: ImmutableXClient, user: string) {
 }
 
 async function main() {
-    const provider = new ethers.providers.JsonRpcProvider('https://eth-ropsten.alchemyapi.io/v2/<ALCHEMY_API_KEY>');
+    const provider = new ethers.providers.JsonRpcProvider('https://eth-sandbox.alchemyapi.io/v2/<ALCHEMY_API_KEY>');
 
     const minterPrivateKey = '<MINTER_PRIVATE_KEY_CHANGE_ME>';
     const minter = new ethers.Wallet(minterPrivateKey).connect(provider);

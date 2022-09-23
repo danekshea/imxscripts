@@ -17,7 +17,7 @@ run the code in this repository. Also make sure to rename the .env.example file 
 
 ## Scripts
 
-The scripts can be found in the `src/get` or `src/post` folder, and are broken down below. The network is defined as either `ropsten` or `mainnet` for all scripts.
+The scripts can be found in the `src/get` or `src/post` folder, and are broken down below. The network is defined as either `sandbox` or `mainnet` for all scripts.
 
 ### GET Requests
 
@@ -120,7 +120,7 @@ npx ts-node ./src/post/update-collection.ts \
   -i <ICON_URL> \
   -m <METADATA_API_URL> \
   -o <COLLECTION_IMAGE_URL> \
-  --network ropsten
+  --network sandbox
 ```
 
 #### Add metadata schema to collection
@@ -356,7 +356,7 @@ npx ts-node deploy-contract.ts \
   -c <CONTRACT_TO_DEPLOY> \
   -n <NAME> \ 
   -y <SYMBOL> \
-  --network ropsten
+  --network sandbox
 ```
 
 ## TODO:
