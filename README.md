@@ -13,7 +13,7 @@ the following commands in your terminal in Mac OS.
 ## Getting Started
 
 With the pre-requisite software installed, execute the command `npm install` to install the required libraries to
-run the code in this repository. Also make sure to rename the .env.example file to .env and populate the different variables.
+run the code in this repository. Also make sure to rename the .env.example file to .env and populate the different variables, the main ones being the provider URLs. Alchemy(https://www.alchemy.com/) is a popular choice for a Node provider. Simply create a new app for Goerli or Mainnet and click "View key", copy the HTTPS URL provided and paste that into the .env file for the provider URL variable for the respective network.
 
 ## Scripts
 
