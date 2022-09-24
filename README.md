@@ -45,6 +45,12 @@ npx ts-node ./src/get/get-user.ts -a <WALLET_ADDRESS> --network <NETWORK>
 npx ts-node ./src/get/get-burn.ts --id <TRANSACTION_ID> --network <NETWORK>
 ```
 
+#### Retrieve a deposit
+
+```
+npx ts-node ./src/get/get-deposit.ts --id <TRANSACTION_ID> --network <NETWORK>
+```
+
 #### Retrieve an order
 
 ```
