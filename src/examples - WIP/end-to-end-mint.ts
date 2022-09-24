@@ -15,7 +15,7 @@ async function main(ownerPrivateKey:string, network:string) {
     //Deploy the contract with the below parameters. 5m gas limit and 60gwei gas price seems to work fine for the NFT contracts. 
     //Make sure you have enough sandbox ETH on this address. Check out https://imxfaucet.xyz/ to get some.
     //TODO: add error handling for the user not having enough funds in wallet
-    const deployedContract = await deployContract(ownerPrivateKey, 'Asset', 'Contract Name', 'SYMBOL', network, '5000000', '2000000000');
+    const deployedContract = await deployContract(ownerPrivateKey, 'Asset', 'Contract Name', 'SYMBOL', network, '5000000', '10000000000');
     console.log('Deployed contract address: ' + deployedContract.address)
     console.log('Now we wait 3 minutes while the contract deploys...')
 
@@ -25,10 +25,16 @@ async function main(ownerPrivateKey:string, network:string) {
     //Create a new project
     const project = await createProject(ownerPrivateKey, 'test project', 'test company', 'dane@immutable.com', network)
     console.log('Created project with id:', project.id)
+
+    //Give API time to register new project
+    await new Promise(f => setTimeout(f, 1000));
  
     //Create collection with the deployed contract and project id
     const collection = await createCollection(ownerPrivateKey, deployedContract.address, 'test collection', project.id, network);
     console.log('Created collection with address:', collection.address)
+
+    //Give API time to register new collection
+    await new Promise(f => setTimeout(f, 1000));
 
     //Mint an asset
     const mintresponse = await mintV2(ownerPrivateKey, '1', collection.address, 'test blueprint', await deployedContract.signer.getAddress(), network)
