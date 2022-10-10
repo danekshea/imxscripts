@@ -57,6 +57,12 @@ npx ts-node ./src/get/get-deposit.ts --id <TRANSACTION_ID> --network <NETWORK>
 npx ts-node ./src/get/get-order.ts --id <ORDER_ID> --network <NETWORK>
 ```
 
+#### Retrieve a withdrawal
+
+```
+npx ts-node ./src/get/get-withdrawal.ts --id <TRANSACTION_ID> --network <NETWORK>
+```
+
 #### Retrieve an asset
 
 ```
