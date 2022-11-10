@@ -230,7 +230,7 @@ npx ts-node ./src/post/register-user.ts -k <PRIVATE_KEY> --network <NETWORK>
 
 ```
 npx ts-node ./src/post/transfer-ETH.ts \
-  -k <PRIVATE_KEY>> \
+  -k <PRIVATE_KEY> \
   -t <RECEIVER_ADDRESS> \
   -a <AMOUNT> \
   --network <NETWORK>
@@ -249,7 +249,7 @@ npx ts-node ./src/post/transfer-NFT.ts \
 
 ```
 npx ts-node ./src/post/transfer-ERC20.ts \
-  -k <PRIVATE_KEY>> \
+  -k <PRIVATE_KEY> \
   -a <AMOUNT> \
   -d <DECIMALS> \
   -y <SYMBOL> \
@@ -274,7 +274,7 @@ To prepare a withdrawal issue the following command:
 
 ```
 npx ts-node ./src/post/withdraw-ETH.ts \
-  -k <PRIVATE_KEY>> \
+  -k <PRIVATE_KEY> \
   -a <AMOUNT> \
   --step prepare \ 
   --network <NETWORK>
@@ -286,7 +286,7 @@ To complete the withdrawal issue the following command;
 
 ```
 npx ts-node ./src/post/withdraw-ETH.ts \
-  -k <PRIVATE_KEY>> \
+  -k <PRIVATE_KEY> \
   -a <AMOUNT> \
   --step complete \ 
   --network <NETWORK>
@@ -298,11 +298,10 @@ npx ts-node ./src/post/withdraw-ETH.ts \
 To prepare a withdrawal issue the following command;
 
 ```
-npx ts-node ./src/post/withdraw-NFT.ts \
-  -k <PRIVATE_KEY>> \
+npx ts-node ./src/post/withdraw-NFT-prepare.ts \
+  -k <PRIVATE_KEY> \
   -t <TOKEN_ID> \
   -s <SMART_CONTRACT_ADDRESS> \
-  --step prepare \ 
   --network <NETWORK>
 ```
 
@@ -311,11 +310,12 @@ npx ts-node ./src/post/withdraw-NFT.ts \
 To complete the withdrawal issue the following command;
 
 ```
-npx ts-node ./src/post/withdraw-NFT.ts \
-  -k <PRIVATE_KEY>> \
+npx ts-node ./src/post/withdraw-NFT-complete.ts \
+  -k <PRIVATE_KEY> \
   -t <TOKEN_ID> \
   -s <SMART_CONTRACT_ADDRESS>
-  --step complete \ 
+  -g [GAS_LIMIT]
+  -p [GAS_PRICE]
   --network <NETWORK>
 ```
 
@@ -325,7 +325,7 @@ To prepare a withdrawal issue the following command;
 
 ```
 npx ts-node ./src/post/withdraw-ERC20.ts \
-  -k <PRIVATE_KEY>> \
+  -k <PRIVATE_KEY> \
   -a <AMOUNT> \
   -d <DECIMALS> \
   -y <SYMBOL> \
@@ -340,7 +340,7 @@ To complete the withdrawal issue the following command;
 
 ```
 npx ts-node ./src/post/withdraw-ERC20.ts \
-  -k <PRIVATE_KEY>> \
+  -k <PRIVATE_KEY> \
   -d <DECIMALS> \
   -y <SYMBOL> \
   -t <TOKEN_ADDRESS> \
