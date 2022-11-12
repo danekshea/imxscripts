@@ -379,3 +379,4 @@ npx ts-node deploy-contract.ts \
 * Add get trades method
 * Add get transfers method
 * Add metadata attribute types to add-metadata-schema and update-metadata-schema-by-name  
+* Separate out prepare and complete withdrawals for ETH and ERC20
