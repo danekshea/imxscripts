@@ -3,8 +3,13 @@ import yargs from 'yargs';
 import { mintV2 } from '../utils/postHelpers/mintV2'
 
 async function main(ownerPrivateKey: string, tokenId: string, tokenAddress: string, bluePrint: string, receiver: string, network:string): Promise<void> {
+    const tokens = [{
+      id: tokenId,
+      blueprint: bluePrint
+    }]
+  
     // Transfer the token to the administrator
-    const result = await mintV2(ownerPrivateKey, tokenId, tokenAddress, bluePrint, receiver, network);
+    const result = await mintV2(ownerPrivateKey, tokens, tokenAddress, receiver, network);
     console.log(result)
 }
 
