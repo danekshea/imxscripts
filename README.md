@@ -371,6 +371,12 @@ npx ts-node deploy-contract.ts \
   --network sandbox
 ```
 
+#### Verify your contract on Etherscan using Hardhat
+```
+Verifies your contract on Etherscan so that people can read the code and do contract calls
+npx hardhat verify --network goerli 0x755C62d0a0e347A1506f863093a66E85Af8AbDC2 <OWNER_ADDRESS> "IMX Chess" "IMXC" <IMX_CORE_ADDRESS>
+```
+
 ## TODO:
 * Add recursion to the end-to-end mint to wait for fetch mint rather than using delay
 * Make amount on complete ETH withdrawal optional as it's not a variable
