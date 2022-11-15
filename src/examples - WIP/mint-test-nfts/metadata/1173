@@ -1,0 +1,8 @@
+{
+    "tokenid": 1173,
+    "eco": "B27",
+    "name": "Sicilian Defense: Hyperaccelerated Fianchetto",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. d4 1/2",
+    "FEN": "rnbqkbnr/pp1ppp1p/6p1/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1173.svg"
+}

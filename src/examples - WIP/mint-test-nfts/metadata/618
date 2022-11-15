@@ -1,0 +1,8 @@
+{
+    "tokenid": 618,
+    "eco": "A58",
+    "name": "Benko Gambit Accepted: Fianchetto Variation",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Bg2 Bg7 9. Nf3 1/2",
+    "FEN": "rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 3 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/618.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1377,
+    "eco": "B76",
+    "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 1/2",
+    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQ - 3 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1377.svg"
+}

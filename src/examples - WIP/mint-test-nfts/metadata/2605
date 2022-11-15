@@ -1,0 +1,8 @@
+{
+    "tokenid": 2605,
+    "eco": "C96",
+    "name": "Ruy Lopez: Closed, Rossolimo Defense",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c6 1 1/2",
+    "FEN": "r1bq1rk1/4bppp/p1pp1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1 w - - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2605.svg"
+}

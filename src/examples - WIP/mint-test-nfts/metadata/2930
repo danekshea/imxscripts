@@ -1,0 +1,8 @@
+{
+    "tokenid": 2930,
+    "eco": "D41",
+    "name": "Queen's Gambit Declined: Semi-Tarrasch Defense, Pillsbury Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/4p3/2pn4/3P4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2930.svg"
+}

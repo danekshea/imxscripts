@@ -1,0 +1,8 @@
+{
+    "tokenid": 2053,
+    "eco": "C42",
+    "name": "Russian Game: Classical Attack, Jaenisch Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4 1/2",
+    "FEN": "r1bqk2r/ppp1bppp/2n5/3p4/2PPn3/3B1N2/PP3PPP/RNBQ1RK1 b kq c3 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2053.svg"
+}

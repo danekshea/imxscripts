@@ -1,0 +1,8 @@
+{
+    "tokenid": 2033,
+    "eco": "C41",
+    "name": "Philidor Defense: Nimzowitsch, Larobok Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. Ng5 O-O 7. Bxf7+ 1/2",
+    "FEN": "r1bq1rk1/pppnbBpp/3p1n2/4p1N1/3PP3/2N5/PPP2PPP/R1BQK2R b KQ - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2033.svg"
+}

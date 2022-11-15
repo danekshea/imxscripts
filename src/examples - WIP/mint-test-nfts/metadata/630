@@ -1,0 +1,8 @@
+{
+    "tokenid": 630,
+    "eco": "A61",
+    "name": "Benoni Defense: Knight's Tour Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 1/2",
+    "FEN": "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/630.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1884,
+    "eco": "C36",
+    "name": "King's Gambit Accepted: Abbazia Defense, Main Line",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4 Nd5 1/2",
+    "FEN": "rnbqkb1r/p4ppp/2p5/3n4/2B2p2/5N2/PPPP2PP/RNBQK2R w KQkq - 2 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1884.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2733,
+    "eco": "D08",
+    "name": "Queen's Gambit Declined: Albin Countergambit, Krenosz Variation",
+    "pgn": "1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bg4 6. h3 Bxf3 7. Nxf3 Bb4+ 8. Bd2 Qe7 1/2",
+    "FEN": "r3k1nr/ppp1qppp/2n5/4P3/1bPp4/5N1P/PP1BPPP1/R2QKB1R w KQkq - 3 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2733.svg"
+}

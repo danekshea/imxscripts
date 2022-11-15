@@ -1,0 +1,8 @@
+{
+    "tokenid": 252,
+    "eco": "A07",
+    "name": "King's Indian Attack: Sicilian Variation",
+    "pgn": "1. Nf3 d5 2. g3 c5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/2pp4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq c6 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/252.svg"
+}

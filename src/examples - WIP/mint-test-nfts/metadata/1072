@@ -1,0 +1,8 @@
+{
+    "tokenid": 1072,
+    "eco": "B19",
+    "name": "Caro-Kann Defense: Classical Variation, Spassky Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 1/2",
+    "FEN": "r2qkbnr/pp1nppp1/2p3bp/7P/3P4/5NN1/PPP2PP1/R1BQKB1R b KQkq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1072.svg"
+}

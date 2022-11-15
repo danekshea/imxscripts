@@ -1,0 +1,8 @@
+{
+    "tokenid": 1279,
+    "eco": "B43",
+    "name": "Sicilian Defense: Kan Variation, Wing Attack, Christiansen's Dream",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Be3 Bc5 8. Qg4 1/2",
+    "FEN": "rnb1k1nr/3p1ppp/pq2p3/1pb5/3NP1Q1/2NBB3/PPP2PPP/R3K2R b KQkq - 5 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1279.svg"
+}

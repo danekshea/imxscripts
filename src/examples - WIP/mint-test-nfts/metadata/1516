@@ -1,0 +1,8 @@
+{
+    "tokenid": 1516,
+    "eco": "C06",
+    "name": "French Defense: Tarrasch Variation, Closed Variation, Main Line",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 1/2",
+    "FEN": "r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R b KQkq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1516.svg"
+}

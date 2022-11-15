@@ -1,0 +1,8 @@
+{
+    "tokenid": 2873,
+    "eco": "D32",
+    "name": "Tarrasch Defense: Gr\u00fcnfeld Gambit",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. dxc5 d4 7. Na4 b5 1/2",
+    "FEN": "r1bqkbnr/p4ppp/2n5/1pP5/N2p4/5N2/PP2PPPP/R1BQKB1R w KQkq b6 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2873.svg"
+}

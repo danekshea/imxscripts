@@ -1,0 +1,8 @@
+{
+    "tokenid": 875,
+    "eco": "B03",
+    "name": "Alekhine Defense: Exchange Variation",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/875.svg"
+}

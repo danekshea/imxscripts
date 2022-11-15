@@ -1,0 +1,8 @@
+{
+    "tokenid": 1314,
+    "eco": "B54",
+    "name": "Sicilian Defense: Modern Variations, Ginsberg Gambit",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bc4 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/3p1n2/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq - 2 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1314.svg"
+}

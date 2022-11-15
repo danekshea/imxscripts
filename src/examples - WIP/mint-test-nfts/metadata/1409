@@ -1,0 +1,8 @@
+{
+    "tokenid": 1409,
+    "eco": "B88",
+    "name": "Sicilian Defense: Sozin Attack, Fischer Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8. Be3 O-O 9. f4 1/2",
+    "FEN": "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/1BN1B3/PPP3PP/R2QK2R b KQ f3 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1409.svg"
+}

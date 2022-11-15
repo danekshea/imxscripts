@@ -1,0 +1,8 @@
+{
+    "tokenid": 2026,
+    "eco": "C41",
+    "name": "Philidor Defense: Lopez Countergambit, Jaenisch Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 f5 4. Bc4 exd4 5. Ng5 Nh6 6. Nxh7 1/2",
+    "FEN": "rnbqkb1r/ppp3pN/3p3n/5p2/2BpP3/8/PPP2PPP/RNBQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2026.svg"
+}

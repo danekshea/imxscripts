@@ -1,0 +1,8 @@
+{
+    "tokenid": 51,
+    "eco": "A00",
+    "name": "Hungarian Opening: Paris Gambit",
+    "pgn": "1. g3 e5 2. Nh3 d5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O 1/2",
+    "FEN": "rn1qkbnr/ppp2ppp/8/3p4/5p2/6PB/PPPPP2P/RNBQ1RK1 b kq - 1 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/51.svg"
+}

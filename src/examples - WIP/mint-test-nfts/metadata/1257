@@ -1,0 +1,8 @@
+{
+    "tokenid": 1257,
+    "eco": "B40",
+    "name": "Sicilian Defense: Gaw-Paw Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 1/2",
+    "FEN": "rnb1kb1r/pp1p1ppp/1q2pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1257.svg"
+}

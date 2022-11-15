@@ -1,0 +1,8 @@
+{
+    "tokenid": 1411,
+    "eco": "B89",
+    "name": "Sicilian Defense: Sozin Attack, Main Line",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 1/2",
+    "FEN": "r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1411.svg"
+}

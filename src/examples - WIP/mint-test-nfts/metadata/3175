@@ -1,0 +1,8 @@
+{
+    "tokenid": 3175,
+    "eco": "E15",
+    "name": "Queen's Indian Defense: Buerger Variation",
+    "pgn": "1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Ng5 1/2",
+    "FEN": "rn1qkb1r/pb1p1ppp/1p3n2/2pp2N1/2P5/6P1/PP2PPBP/RNBQK2R b KQkq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3175.svg"
+}

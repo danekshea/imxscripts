@@ -1,0 +1,8 @@
+{
+    "tokenid": 3124,
+    "eco": "E07",
+    "name": "Catalan Opening: Closed, Botvinnik Variation",
+    "pgn": "1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. d4 O-O 6. Nc3 c6 7. O-O Nbd7 8. Qd3 1/2",
+    "FEN": "r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/2NQ1NP1/PP2PPBP/R1B2RK1 b - - 3 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3124.svg"
+}

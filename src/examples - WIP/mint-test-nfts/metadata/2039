@@ -1,0 +1,8 @@
+{
+    "tokenid": 2039,
+    "eco": "C41",
+    "name": "Philidor Defense: Philidor Countergambit, del Rio Attack",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/4P3/3p2N1/4p3/8/PPP2PPP/RNBQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2039.svg"
+}

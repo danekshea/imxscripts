@@ -1,0 +1,8 @@
+{
+    "tokenid": 1216,
+    "eco": "B32",
+    "name": "Sicilian Defense: Accelerated Dragon",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 1/2",
+    "FEN": "r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1216.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2181,
+    "eco": "C46",
+    "name": "Four Knights Game: Italian Variation, Noa Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ 1/2",
+    "FEN": "r1bqkb1r/pppp1Bpp/2n5/4p3/4n3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2181.svg"
+}

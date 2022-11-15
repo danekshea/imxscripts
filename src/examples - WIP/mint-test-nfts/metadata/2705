@@ -1,0 +1,8 @@
+{
+    "tokenid": 2705,
+    "eco": "D05",
+    "name": "Rubinstein Opening: Semi-Slav Defense",
+    "pgn": "1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 Nbd7 7. Bb2 1/2",
+    "FEN": "r1bq1rk1/pppn1ppp/3bpn2/3p4/3P4/1P1BPN2/PBP2PPP/RN1Q1RK1 b - - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2705.svg"
+}

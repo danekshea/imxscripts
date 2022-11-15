@@ -1,0 +1,8 @@
+{
+    "tokenid": 2620,
+    "eco": "D00",
+    "name": "Blackmar-Diemer Gambit: Bogoljubov Defense, Mad Dog Attack",
+    "pgn": "1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. h4 1/2",
+    "FEN": "rnbqk2r/ppp1ppbp/5np1/8/2BP3P/2N2N2/PPP3P1/R1BQK2R b KQkq h3 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2620.svg"
+}

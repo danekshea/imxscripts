@@ -1,0 +1,8 @@
+{
+    "tokenid": 3095,
+    "eco": "D95",
+    "name": "Gr\u00fcnfeld Defense: Pachman Variation",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Qb3 dxc4 6. Bxc4 O-O 7. Nf3 Nbd7 8. Ng5 1/2",
+    "FEN": "r1bq1rk1/pppnppbp/5np1/6N1/2BP4/1QN1P3/PP3PPP/R1B1K2R b KQ - 4 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3095.svg"
+}

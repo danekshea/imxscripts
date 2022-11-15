@@ -1,0 +1,8 @@
+{
+    "tokenid": 1171,
+    "eco": "B27",
+    "name": "Sicilian Defense: Frederico Variation",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. d4 f5 1/2",
+    "FEN": "rnbqkbnr/pp1pp2p/6p1/2p2p2/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq f6 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1171.svg"
+}

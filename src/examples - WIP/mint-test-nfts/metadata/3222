@@ -1,0 +1,8 @@
+{
+    "tokenid": 3222,
+    "eco": "E26",
+    "name": "Nimzo-Indian Defense: S\u00e4misch Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 1/2",
+    "FEN": "rnbqk2r/pp1p1ppp/4pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3222.svg"
+}

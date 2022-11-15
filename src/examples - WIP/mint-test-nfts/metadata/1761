@@ -1,0 +1,8 @@
+{
+    "tokenid": 1761,
+    "eco": "C29",
+    "name": "Vienna Game: Vienna Gambit, Kaufmann Variation",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bg4 6. Qe2 1/2",
+    "FEN": "rn1qkb1r/ppp2ppp/8/3pP3/4n1b1/2N2N2/PPPPQ1PP/R1B1KB1R b KQkq - 3 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1761.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1302,
+    "eco": "B50",
+    "name": "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Nxe4 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/3p4/2P5/4n3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1302.svg"
+}

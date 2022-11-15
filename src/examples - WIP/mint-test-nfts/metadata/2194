@@ -1,0 +1,8 @@
+{
+    "tokenid": 2194,
+    "eco": "C47",
+    "name": "Four Knights Game: Scotch Variation, Oxford Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. d5 Nd4 1/2",
+    "FEN": "r1bqk2r/pppp1ppp/5n2/3Pp3/1b1nP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 1 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2194.svg"
+}

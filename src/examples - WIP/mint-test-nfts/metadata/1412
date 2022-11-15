@@ -1,0 +1,8 @@
+{
+    "tokenid": 1412,
+    "eco": "B89",
+    "name": "Sicilian Defense: Sozin Attack, Main Line, Sherbakov Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8. Bb3 O-O 9. O-O Na5 10. f4 b6 1/2",
+    "FEN": "r1bq1rk1/p3bppp/1p1ppn2/n7/3NPP2/1BN1B3/PPP3PP/R2Q1RK1 w - - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1412.svg"
+}

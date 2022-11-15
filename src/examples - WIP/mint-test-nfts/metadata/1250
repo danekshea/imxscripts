@@ -1,0 +1,8 @@
+{
+    "tokenid": 1250,
+    "eco": "B40",
+    "name": "Sicilian Defense: Delayed Alapin Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. c3 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1250.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1062,
+    "eco": "B17",
+    "name": "Caro-Kann Defense: Karpov Variation, Smyslov Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 1/2",
+    "FEN": "r1bqkb1r/pp3ppp/1np1pn2/6N1/2BP4/8/PPP1QPPP/R1B1K1NR w KQkq - 2 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1062.svg"
+}

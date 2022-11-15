@@ -1,0 +1,8 @@
+{
+    "tokenid": 1274,
+    "eco": "B42",
+    "name": "Sicilian Defense: Kan Variation, Modern Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 1/2",
+    "FEN": "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1274.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1583,
+    "eco": "C14",
+    "name": "French Defense: Classical Variation, Tarrasch Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Bd3 1/2",
+    "FEN": "rnb1k2r/pppnqppp/4p3/3pP3/3P4/2NB4/PPP2PPP/R2QK1NR b KQkq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1583.svg"
+}

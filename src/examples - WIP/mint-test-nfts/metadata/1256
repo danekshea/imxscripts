@@ -1,0 +1,8 @@
+{
+    "tokenid": 1256,
+    "eco": "B40",
+    "name": "Sicilian Defense: French Variation, Westerinen Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. b3 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1256.svg"
+}

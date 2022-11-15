@@ -1,0 +1,8 @@
+{
+    "tokenid": 1122,
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 d3 4. c4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/2P1P3/3p4/PP3PPP/RNBQKBNR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1122.svg"
+}

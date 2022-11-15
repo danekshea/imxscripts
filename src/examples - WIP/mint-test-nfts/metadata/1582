@@ -1,0 +1,8 @@
+{
+    "tokenid": 1582,
+    "eco": "C14",
+    "name": "French Defense: Classical Variation, Steinitz Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 1/2",
+    "FEN": "rnb1k2r/pppnqppp/4p3/3pP3/3P1P2/2N5/PPP3PP/R2QKBNR b KQkq f3 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1582.svg"
+}

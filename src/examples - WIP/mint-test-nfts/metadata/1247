@@ -1,0 +1,8 @@
+{
+    "tokenid": 1247,
+    "eco": "B38",
+    "name": "Sicilian Defense: Accelerated Dragon, Mar\u00f3czy Bind",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 1/2",
+    "FEN": "r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/4B3/PP3PPP/RN1QKB1R b KQkq - 2 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1247.svg"
+}

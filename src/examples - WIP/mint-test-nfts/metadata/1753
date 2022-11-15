@@ -1,0 +1,8 @@
+{
+    "tokenid": 1753,
+    "eco": "C27",
+    "name": "Vienna Game: Stanley Variation, Frankenstein-Dracula Variation",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 8. Qd5 Qe7 9. Nxc7+ Kd8 10. Nxa8 b6 1/2",
+    "FEN": "N1bk1b1r/p2pq2p/1pnn2p1/3Qpp2/8/1B6/PPPP1PPP/R1B1K1NR w KQ - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1753.svg"
+}

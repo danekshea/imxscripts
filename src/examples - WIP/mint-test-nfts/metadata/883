@@ -1,0 +1,8 @@
+{
+    "tokenid": 883,
+    "eco": "B03",
+    "name": "Alekhine Defense: Four Pawns Attack, Tartakower Variation",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3 e6 9. Nf3 Qd7 10. Be2 O-O-O 1 1/2",
+    "FEN": "2kr1b1r/pppq1ppp/1nn1p3/4Pb2/2PP4/2N1BN2/PP2B1PP/R2QK2R w KQ - 4 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/883.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 100,
+    "eco": "A00",
+    "name": "Sodium Attack",
+    "pgn": "1. Na3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/N7/PPPPPPPP/R1BQKBNR b KQkq - 1 1",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/100.svg"
+}

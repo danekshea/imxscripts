@@ -1,0 +1,8 @@
+{
+    "tokenid": 1020,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: De Bruycker Defense",
+    "pgn": "1. e4 c6 2. d4 Na6 3. Nc3 Nc7 1/2",
+    "FEN": "r1bqkbnr/ppnppppp/2p5/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1020.svg"
+}

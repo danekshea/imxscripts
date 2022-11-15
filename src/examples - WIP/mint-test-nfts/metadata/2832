@@ -1,0 +1,8 @@
+{
+    "tokenid": 2832,
+    "eco": "D28",
+    "name": "Queen's Gambit Accepted: Classical Defense, Alekhine System",
+    "pgn": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 1/2",
+    "FEN": "rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1 b kq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2832.svg"
+}

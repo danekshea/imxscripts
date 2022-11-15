@@ -1,0 +1,8 @@
+{
+    "tokenid": 223,
+    "eco": "A05",
+    "name": "King's Indian Attack: Symmetrical Defense",
+    "pgn": "1. Nf3 Nf6 2. g3 g6 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/5np1/8/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/223.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1406,
+    "eco": "B85",
+    "name": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8. Kh1 Be7 9. f4 d6 10. a4 1/2",
+    "FEN": "r1b1k2r/1pq1bppp/p1nppn2/8/P2NPP2/2N5/1PP1B1PP/R1BQ1R1K b kq a3 0 10",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1406.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1788,
+    "eco": "C30",
+    "name": "King's Gambit Declined: Panteldakis Countergambit, Pawn Sacrifice Line",
+    "pgn": "1. e4 e5 2. f4 f5 3. exf5 exf4 4. Qh5+ g6 5. fxg6 Qe7+ 6. Kd1 1/2",
+    "FEN": "rnb1kbnr/ppppq2p/6P1/7Q/5p2/8/PPPP2PP/RNBK1BNR b kq - 2 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1788.svg"
+}

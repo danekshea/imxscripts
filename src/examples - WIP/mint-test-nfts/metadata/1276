@@ -1,0 +1,8 @@
+{
+    "tokenid": 1276,
+    "eco": "B42",
+    "name": "Sicilian Defense: Kan Variation, Swiss Cheese Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 1/2",
+    "FEN": "rnbqkbnr/1p1p1p1p/p3p1p1/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1276.svg"
+}

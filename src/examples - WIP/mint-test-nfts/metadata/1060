@@ -1,0 +1,8 @@
+{
+    "tokenid": 1060,
+    "eco": "B17",
+    "name": "Caro-Kann Defense: Karpov Variation, Modern Variation, Ivanchuk Defense",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ndf6 1/2",
+    "FEN": "r1bqkbnr/pp2pppp/2p2n2/6N1/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 3 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1060.svg"
+}

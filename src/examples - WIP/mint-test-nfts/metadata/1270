@@ -1,0 +1,8 @@
+{
+    "tokenid": 1270,
+    "eco": "B41",
+    "name": "Sicilian Defense: Kan Variation, Mar\u00f3czy Bind, Bronstein Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Bc2 1/2",
+    "FEN": "r1bqk2r/1p1p1ppp/p1n1pn2/8/1bPNP3/2N5/PPB2PPP/R1BQK2R b KQkq - 6 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1270.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3,
+    "eco": "A00",
+    "name": "Amar Opening: Gent Gambit",
+    "pgn": "1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3 1/2",
+    "FEN": "rn1qkbnr/ppp2ppp/8/3p4/8/6PB/PPPPP3/RNBQ1RK1 b kq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3.svg"
+}

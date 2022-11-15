@@ -1,0 +1,8 @@
+{
+    "tokenid": 2224,
+    "eco": "C50",
+    "name": "Blackburne Shilling Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Nxf7 Qxg2 6. Rf1 Qxe4+ 7. Be2 Nf3# 1/2",
+    "FEN": "r1b1kbnr/pppp1Npp/8/8/4q3/5n2/PPPPBP1P/RNBQKR2 w Qkq - 2 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2224.svg"
+}

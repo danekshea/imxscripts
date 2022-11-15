@@ -1,0 +1,8 @@
+{
+    "tokenid": 3264,
+    "eco": "E48",
+    "name": "Nimzo-Indian Defense: Ragozin Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O 1/2",
+    "FEN": "r1bq1rk1/ppp2ppp/2n1pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 b - - 3 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3264.svg"
+}

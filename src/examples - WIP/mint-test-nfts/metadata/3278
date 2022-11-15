@@ -1,0 +1,8 @@
+{
+    "tokenid": 3278,
+    "eco": "E58",
+    "name": "Nimzo-Indian Defense: Normal Variation, Bernstein Defense, Exchange Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3 Bxc3 9. bxc3 1/2",
+    "FEN": "r1bq1rk1/pp3ppp/2n1pn2/2pp4/2PP4/P1PBPN2/5PPP/R1BQ1RK1 b - - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3278.svg"
+}

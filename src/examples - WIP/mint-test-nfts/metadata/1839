@@ -1,0 +1,8 @@
+{
+    "tokenid": 1839,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Fraser Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. g3 fxg3 7. Qf3 1/2",
+    "FEN": "rnb1k1nr/pppp1pbp/8/6p1/2B1P2q/2N2Qp1/PPPP3P/R1B2KNR b kq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1839.svg"
+}

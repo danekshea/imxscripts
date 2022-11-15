@@ -1,0 +1,8 @@
+{
+    "tokenid": 818,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Gr\u00fcnfeld Variation",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 7. g4 1/2",
+    "FEN": "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq g3 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/818.svg"
+}

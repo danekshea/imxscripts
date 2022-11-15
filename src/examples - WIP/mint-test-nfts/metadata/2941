@@ -1,0 +1,8 @@
+{
+    "tokenid": 2941,
+    "eco": "D44",
+    "name": "Semi-Slav Defense: Botvinnik Variation, Lilienthal Variation",
+    "pgn": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 1 1/2",
+    "FEN": "r1bqkb1r/p2n1p2/2p1pn2/1p2P1B1/2pP4/2N5/PP3PPP/R2QKB1R w KQkq - 1 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2941.svg"
+}

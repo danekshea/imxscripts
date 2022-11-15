@@ -1,0 +1,8 @@
+{
+    "tokenid": 2761,
+    "eco": "D14",
+    "name": "Slav Defense: Exchange Variation, Trifunovic Variation",
+    "pgn": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Qb3 Bb4 1/2",
+    "FEN": "r2qk2r/pp3ppp/2n1pn2/3p1b2/1b1P1B2/1QN1PN2/PP3PPP/R3KB1R w KQkq - 2 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2761.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 840,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Schiller-Pytel Variation, Modern Variation",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 c6 6. Nge2 Bf5 7. Bf4 Qb4 1/2",
+    "FEN": "rn2kb1r/pp2pppp/2p2n2/5b2/1qBP1B2/2N5/PPP1NPPP/R2QK2R w KQkq - 4 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/840.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3128,
+    "eco": "E08",
+    "name": "Catalan Opening: Closed, Zagoryansky Variation",
+    "pgn": "1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8. Rd1 b6 9. a4 1/2",
+    "FEN": "r1bq1rk1/p2nbppp/1pp1pn2/3p4/P1PP4/5NP1/1PQ1PPBP/RNBR2K1 b - a3 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3128.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2179,
+    "eco": "C46",
+    "name": "Four Knights Game: Halloween Gambit, Plasma Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qf6 1 1/2",
+    "FEN": "r1b1kbnr/pp1p1ppp/3P1qn1/8/5P2/2N5/PPP3PP/R1BQKB1R w KQkq - 1 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2179.svg"
+}

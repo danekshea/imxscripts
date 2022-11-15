@@ -1,0 +1,8 @@
+{
+    "tokenid": 2482,
+    "eco": "C70",
+    "name": "Ruy Lopez: Morphy Defense, Norwegian Variation, Nightingale Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. Bxf7+ 1/2",
+    "FEN": "r1bqkbnr/2pp1Bpp/p7/np2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2482.svg"
+}

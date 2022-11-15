@@ -1,0 +1,8 @@
+{
+    "tokenid": 1485,
+    "eco": "C01",
+    "name": "French Defense: Exchange Variation, Bogoljubov Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/2n2n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 4 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1485.svg"
+}

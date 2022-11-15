@@ -1,0 +1,8 @@
+{
+    "tokenid": 386,
+    "eco": "A30",
+    "name": "English Opening: Symmetrical Variation, Hedgehog Defense",
+    "pgn": "1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 1/2",
+    "FEN": "rn1qk2r/pb1pbppp/1p2pn2/2p5/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq - 4 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/386.svg"
+}

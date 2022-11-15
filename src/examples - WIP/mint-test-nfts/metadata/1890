@@ -1,0 +1,8 @@
+{
+    "tokenid": 1890,
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Double Muzio Gambit, Baldwin Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. Nc3 Qd4+ 8. Kh1 Qxc4 9. Nd5 1/2",
+    "FEN": "rnb1kbnr/pppp1p1p/8/3N4/2q1Pp2/5Q2/PPPP2PP/R1B2R1K b kq - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1890.svg"
+}

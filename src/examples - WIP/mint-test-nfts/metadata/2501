@@ -1,0 +1,8 @@
+{
+    "tokenid": 2501,
+    "eco": "C77",
+    "name": "Ruy Lopez: Morphy Defense, Duras Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c4 1/2",
+    "FEN": "r1bqkb1r/1pp2ppp/p1np1n2/4p3/B1P1P3/3P1N2/PP3PPP/RNBQK2R b KQkq c3 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2501.svg"
+}

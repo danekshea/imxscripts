@@ -1,0 +1,8 @@
+{
+    "tokenid": 1298,
+    "eco": "B50",
+    "name": "Sicilian Defense: Delayed Alapin, Basman-Palatnik Gambit",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d4 cxd4 6. cxd4 Nxe4 1/2",
+    "FEN": "r1bqkb1r/pp2pppp/2np4/8/3Pn3/5N2/PP2BPPP/RNBQK2R w KQkq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1298.svg"
+}

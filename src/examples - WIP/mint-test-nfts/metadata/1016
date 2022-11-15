@@ -1,0 +1,8 @@
+{
+    "tokenid": 1016,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack",
+    "pgn": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 1/2",
+    "FEN": "rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P2PP/2N5/PPP1NP2/R1BQKB1R b KQkq h3 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1016.svg"
+}

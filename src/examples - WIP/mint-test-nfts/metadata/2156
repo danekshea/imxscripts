@@ -1,0 +1,8 @@
+{
+    "tokenid": 2156,
+    "eco": "C45",
+    "name": "Scotch Game: Gottschall Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Qd2 d5 8. Nb5 Bxe3 9. Qxe3 O-O 10. Nxc7 Rb8 1 1/2",
+    "FEN": "1rb2rk1/ppN1nppp/2n2q2/3p4/4P3/2P1Q3/PP3PPP/RN2KB1R w KQ - 1 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2156.svg"
+}

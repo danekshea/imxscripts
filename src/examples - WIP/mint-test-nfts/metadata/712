@@ -1,0 +1,8 @@
+{
+    "tokenid": 712,
+    "eco": "A95",
+    "name": "Dutch Defense: Classical Variation, Stonewall Variation",
+    "pgn": "1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nf3 Be7 6. O-O O-O 7. Nc3 c6 1/2",
+    "FEN": "rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/712.svg"
+}

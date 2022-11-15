@@ -1,0 +1,8 @@
+{
+    "tokenid": 1752,
+    "eco": "C27",
+    "name": "Vienna Game: Stanley Variation, Alekhine Variation",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Be7 6. Nf3 Nc6 7. Nxe5 1/2",
+    "FEN": "r1bqk2r/ppppbppp/2nn4/4N2Q/8/1BN5/PPPP1PPP/R1B1K2R b KQkq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1752.svg"
+}

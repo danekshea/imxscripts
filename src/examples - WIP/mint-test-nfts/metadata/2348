@@ -1,0 +1,8 @@
+{
+    "tokenid": 2348,
+    "eco": "C56",
+    "name": "Italian Game: Scotch Gambit, Canal Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Nc3 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/2n5/3p4/2Bpn3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2348.svg"
+}

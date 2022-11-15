@@ -1,0 +1,8 @@
+{
+    "tokenid": 1088,
+    "eco": "B20",
+    "name": "Sicilian Defense: Myers Attack",
+    "pgn": "1. e4 c5 2. h4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq h3 0 2",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1088.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 180,
+    "eco": "A02",
+    "name": "Bird Opening: Swiss Gambit",
+    "pgn": "1. f4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4 1/2",
+    "FEN": "rnbqkb1r/ppppp1pp/5n2/8/4pPP1/2N5/PPPP3P/R1BQKBNR b KQkq g3 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/180.svg"
+}

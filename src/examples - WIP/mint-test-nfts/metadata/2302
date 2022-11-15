@@ -1,0 +1,8 @@
+{
+    "tokenid": 2302,
+    "eco": "C53",
+    "name": "Italian Game: Classical Variation, Giuoco Pianissimo, Main Line",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Re1 a6 8. Bb3 Ba7 9. h3 1/2",
+    "FEN": "r1bq1rk1/bpp2ppp/p1np1n2/4p3/4P3/1BPP1N1P/PP3PP1/RNBQR1K1 b - - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2302.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 328,
+    "eco": "A15",
+    "name": "Polish Opening: King's Indian Variation, Sokolsky Attack",
+    "pgn": "1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. d4 1/2",
+    "FEN": "rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ d3 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/328.svg"
+}

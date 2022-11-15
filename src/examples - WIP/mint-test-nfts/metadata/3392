@@ -1,0 +1,8 @@
+{
+    "tokenid": 3392,
+    "eco": "E97",
+    "name": "King's Indian Defense: Orthodox Variation, Modern System",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Nd2 1/2",
+    "FEN": "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 b - - 2 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3392.svg"
+}

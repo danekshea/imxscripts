@@ -1,0 +1,8 @@
+{
+    "tokenid": 2377,
+    "eco": "C58",
+    "name": "Italian Game: Two Knights Defense, Polerio Defense, Kieseritzky Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/5n2/n2Pp1N1/2B5/3P4/PPP2PPP/RNBQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2377.svg"
+}

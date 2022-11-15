@@ -1,0 +1,8 @@
+{
+    "tokenid": 1574,
+    "eco": "C13",
+    "name": "French Defense: Classical Variation, Richter Attack",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4 1/2",
+    "FEN": "rnbqk2r/ppp1bppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R3KBNR b KQkq - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1574.svg"
+}

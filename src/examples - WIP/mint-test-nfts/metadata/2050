@@ -1,0 +1,8 @@
+{
+    "tokenid": 2050,
+    "eco": "C42",
+    "name": "Russian Game: Classical Attack, Chigorin Variation, Browne Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4 Nb4 9. cxd5 1/2",
+    "FEN": "r1bqk2r/ppp1bppp/8/3P4/1n1Pn3/3B1N2/PP3PPP/RNBQ1RK1 b kq - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2050.svg"
+}

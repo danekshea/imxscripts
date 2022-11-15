@@ -1,0 +1,8 @@
+{
+    "tokenid": 871,
+    "eco": "B03",
+    "name": "Alekhine Defense",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq d3 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/871.svg"
+}

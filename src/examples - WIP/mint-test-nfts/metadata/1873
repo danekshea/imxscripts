@@ -1,0 +1,8 @@
+{
+    "tokenid": 1873,
+    "eco": "C34",
+    "name": "King's Gambit Accepted: Greco Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. h4 Bg7 1/2",
+    "FEN": "rnbqk1nr/ppp2pb1/3p3p/6p1/2BPPp1P/5N2/PPP3P1/RNBQK2R w KQkq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1873.svg"
+}

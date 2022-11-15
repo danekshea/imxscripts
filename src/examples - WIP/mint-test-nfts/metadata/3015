@@ -1,0 +1,8 @@
+{
+    "tokenid": 3015,
+    "eco": "D60",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Botvinnik Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Bd3 1/2",
+    "FEN": "r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2NBPN2/PP3PPP/R2QK2R b KQ - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3015.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 980,
+    "eco": "B10",
+    "name": "Caro-Kann Defense",
+    "pgn": "1. e4 c6 2. Nc3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/980.svg"
+}

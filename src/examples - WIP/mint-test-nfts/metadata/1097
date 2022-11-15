@@ -1,0 +1,8 @@
+{
+    "tokenid": 1097,
+    "eco": "B20",
+    "name": "Sicilian Defense: Wing Gambit, Nanu Gambit",
+    "pgn": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4 Qe6 7. Bd3 1/2",
+    "FEN": "rnb1kbnr/pp3ppp/4q3/4p3/1pP5/P2B1N2/3P1PPP/RNBQK2R b KQkq - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1097.svg"
+}

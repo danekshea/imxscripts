@@ -1,0 +1,8 @@
+{
+    "tokenid": 3019,
+    "eco": "D63",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Capablanca Variation",
+    "pgn": "1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 b6 8. cxd5 exd5 9. Bb5 1/2",
+    "FEN": "r1bq1rk1/p1pnbppp/1p3n2/1B1p2B1/3P4/2N1PN2/PP3PPP/2RQK2R b K - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3019.svg"
+}

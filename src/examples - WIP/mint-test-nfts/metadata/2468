@@ -1,0 +1,8 @@
+{
+    "tokenid": 2468,
+    "eco": "C69",
+    "name": "Ruy Lopez: Exchange Variation, Alapin Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 1/2",
+    "FEN": "r2qkbnr/1pp2pp1/p1p5/4p2p/4P1b1/5N1P/PPPP1PP1/RNBQ1RK1 w kq h6 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2468.svg"
+}

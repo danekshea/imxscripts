@@ -1,0 +1,8 @@
+{
+    "tokenid": 1418,
+    "eco": "B90",
+    "name": "Sicilian Defense: Najdorf Variation, English Attack, Anti-English",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 1/2",
+    "FEN": "rnbqkb1r/1p2pppp/p2p4/8/3NP1n1/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1418.svg"
+}

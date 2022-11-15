@@ -1,0 +1,8 @@
+{
+    "tokenid": 2867,
+    "eco": "D31",
+    "name": "Semi-Slav Defense: Noteboom Variation, Abrahams Variation",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 Bxc3+ 7. bxc3 b5 8. axb5 cxb5 1/2",
+    "FEN": "rnbqk1nr/p4ppp/4p3/1p6/2pP4/2P1PN2/5PPP/R1BQKB1R w KQkq - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2867.svg"
+}

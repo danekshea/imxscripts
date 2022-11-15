@@ -1,0 +1,8 @@
+{
+    "tokenid": 2562,
+    "eco": "C87",
+    "name": "Ruy Lopez: Closed, Averbakh Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 1/2",
+    "FEN": "r1bqk2r/1pp1bppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 w kq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2562.svg"
+}

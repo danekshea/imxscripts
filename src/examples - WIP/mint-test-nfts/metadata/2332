@@ -1,0 +1,8 @@
+{
+    "tokenid": 2332,
+    "eco": "C55",
+    "name": "Italian Game: Scotch Gambit, Max Lange Attack, Long Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 1 1/2",
+    "FEN": "r3k2r/ppp2ppp/2n1bP2/2b2qN1/2pp4/2N5/PPP2PPP/R1BQR1K1 w kq - 6 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2332.svg"
+}

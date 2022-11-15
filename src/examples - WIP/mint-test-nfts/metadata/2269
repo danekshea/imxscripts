@@ -1,0 +1,8 @@
+{
+    "tokenid": 2269,
+    "eco": "C51",
+    "name": "Italian Game: Evans Gambit, Steinitz Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O d6 8. cxd4 Bb6 9. Nc3 Na5 10. Bg5 f6 1 1/2",
+    "FEN": "r1bqk1nr/ppp3pp/1b1p1p2/n5B1/2BPP3/2N2N2/P4PPP/R2Q1RK1 w kq - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2269.svg"
+}

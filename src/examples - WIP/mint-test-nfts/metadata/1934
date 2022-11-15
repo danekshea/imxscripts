@@ -1,0 +1,8 @@
+{
+    "tokenid": 1934,
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Allgaier, Urusov Attack",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Bc4+ d5 8. Bxd5+ Kg7 9. d4 1/2",
+    "FEN": "rnbq1bnr/ppp3k1/7p/3B4/3PPppP/8/PPP3P1/RNBQK2R b KQ d3 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1934.svg"
+}

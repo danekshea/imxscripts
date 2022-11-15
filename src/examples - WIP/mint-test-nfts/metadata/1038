@@ -1,0 +1,8 @@
+{
+    "tokenid": 1038,
+    "eco": "B13",
+    "name": "Caro-Kann Defense: Panov Attack, Modern Defense, Czerniak Line",
+    "pgn": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 1/2",
+    "FEN": "r1b1kb1r/pp2pppp/2n2n2/q2p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1038.svg"
+}

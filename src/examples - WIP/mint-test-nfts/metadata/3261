@@ -1,0 +1,8 @@
+{
+    "tokenid": 3261,
+    "eco": "E46",
+    "name": "Nimzo-Indian Defense: Simagin Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 1/2",
+    "FEN": "rnbq1rk1/ppp2ppp/3bpn2/3p4/2PP4/P1N1P3/1P2NPPP/R1BQKB1R w KQ - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3261.svg"
+}

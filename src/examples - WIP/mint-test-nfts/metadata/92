@@ -1,0 +1,8 @@
+{
+    "tokenid": 92,
+    "eco": "A00",
+    "name": "Polish Opening: Rooks Swap Line",
+    "pgn": "1. b4 e6 2. Bb2 Nf6 3. b5 a6 4. a4 axb5 5. axb5 Rxa1 6. Bxa1 1/2",
+    "FEN": "1nbqkb1r/1ppp1ppp/4pn2/1P6/8/8/2PPPPPP/BN1QKBNR b Kk - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/92.svg"
+}

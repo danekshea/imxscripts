@@ -1,0 +1,8 @@
+{
+    "tokenid": 1310,
+    "eco": "B52",
+    "name": "Sicilian Defense: Moscow Variation, Sokolsky Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 1/2",
+    "FEN": "rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq c3 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1310.svg"
+}

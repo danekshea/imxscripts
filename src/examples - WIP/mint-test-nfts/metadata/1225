@@ -1,0 +1,8 @@
+{
+    "tokenid": 1225,
+    "eco": "B32",
+    "name": "Sicilian Defense: Open",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1225.svg"
+}

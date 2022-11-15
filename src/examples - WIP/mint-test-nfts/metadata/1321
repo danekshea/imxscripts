@@ -1,0 +1,8 @@
+{
+    "tokenid": 1321,
+    "eco": "B56",
+    "name": "Sicilian Defense: Spielmann Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Nde2 1/2",
+    "FEN": "r1bqkb1r/pp2pppp/2np1n2/8/4P3/2N5/PPP1NPPP/R1BQKB1R b KQkq - 1 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1321.svg"
+}

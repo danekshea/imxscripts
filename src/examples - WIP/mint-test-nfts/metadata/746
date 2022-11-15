@@ -1,0 +1,8 @@
+{
+    "tokenid": 746,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: El Columpio Defense, Exchange Variation",
+    "pgn": "1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. exd6 1/2",
+    "FEN": "r1bqkb1r/ppp1pppp/2nP3n/8/3P4/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/746.svg"
+}

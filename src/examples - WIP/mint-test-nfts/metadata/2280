@@ -1,0 +1,8 @@
+{
+    "tokenid": 2280,
+    "eco": "C52",
+    "name": "Italian Game: Evans Gambit, Johner Defense",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O b5 1/2",
+    "FEN": "r1bqk1nr/p1pp1ppp/2n5/bp6/2BpP3/2P2N2/P4PPP/RNBQ1RK1 w kq b6 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2280.svg"
+}

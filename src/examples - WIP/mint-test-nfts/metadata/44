@@ -1,0 +1,8 @@
+{
+    "tokenid": 44,
+    "eco": "A00",
+    "name": "Hungarian Opening: Burk Gambit",
+    "pgn": "1. g3 e5 2. a3 d5 3. Nf3 e4 4. Nh4 Be7 5. d3 1/2",
+    "FEN": "rnbqk1nr/ppp1bppp/8/3p4/4p2N/P2P2P1/1PP1PP1P/RNBQKB1R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/44.svg"
+}

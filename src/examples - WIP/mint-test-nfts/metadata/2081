@@ -1,0 +1,8 @@
+{
+    "tokenid": 2081,
+    "eco": "C43",
+    "name": "Bishop's Opening: Urusov Gambit, Keidansky Gambit",
+    "pgn": "1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/8/8/2BQn3/5N2/PPP2PPP/RNB1K2R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2081.svg"
+}

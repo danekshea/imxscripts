@@ -1,0 +1,8 @@
+{
+    "tokenid": 2141,
+    "eco": "C44",
+    "name": "Scotch Game: Sea-cadet Mate",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Bg4 7. O-O Ne5 8. Nxe5 Bxd1 9. Bxf7+ Ke7 10. Nd5# 1/2",
+    "FEN": "r2q1bnr/ppp1kBpp/3p4/3NN3/4P3/8/PP3PPP/R1Bb1RK1 b - - 2 10",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2141.svg"
+}

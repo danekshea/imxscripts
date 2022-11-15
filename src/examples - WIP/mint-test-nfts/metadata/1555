@@ -1,0 +1,8 @@
+{
+    "tokenid": 1555,
+    "eco": "C12",
+    "name": "French Defense: MacCutcheon Variation, Bogoljubov Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Qxd5 6. Bxf6 gxf6 7. Qd2 Qa5 1/2",
+    "FEN": "rnb1k2r/ppp2p1p/4pp2/q7/1b1P4/2N5/PPPQ1PPP/R3KBNR w KQkq - 2 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1555.svg"
+}

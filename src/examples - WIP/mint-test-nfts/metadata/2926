@@ -1,0 +1,8 @@
+{
+    "tokenid": 2926,
+    "eco": "D40",
+    "name": "Queen's Gambit Declined: Semi-Tarrasch Defense, Symmetrical Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. e3 c5 5. d4 Nc6 6. Bd3 Bd6 7. O-O O-O 1/2",
+    "FEN": "r1bq1rk1/pp3ppp/2nbpn2/2pp4/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 5 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2926.svg"
+}

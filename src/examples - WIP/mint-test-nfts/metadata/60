@@ -1,0 +1,8 @@
+{
+    "tokenid": 60,
+    "eco": "A00",
+    "name": "Hungarian Opening: Winterberg Gambit",
+    "pgn": "1. g3 d5 2. Bg2 e5 3. c4 dxc4 4. b3 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/4p3/2p5/1P4P1/P2PPPBP/RNBQK1NR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/60.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1791,
+    "eco": "C30",
+    "name": "King's Gambit Declined: Panteldakis Countergambit, Symmetrical Variation",
+    "pgn": "1. e4 e5 2. f4 f5 3. exf5 exf4 4. Nf3 d5 5. d4 Bd6 6. Bd3 1/2",
+    "FEN": "rnbqk1nr/ppp3pp/3b4/3p1P2/3P1p2/3B1N2/PPP3PP/RNBQK2R b KQkq - 2 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1791.svg"
+}

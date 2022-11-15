@@ -1,0 +1,8 @@
+{
+    "tokenid": 3076,
+    "eco": "D86",
+    "name": "Gr\u00fcnfeld Defense: Exchange Variation, Simagin's Lesser Variation",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 b6 1/2",
+    "FEN": "rnbq1rk1/p1p1ppbp/1p4p1/8/2BPP3/2P5/P3NPPP/R1BQK2R w KQ - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3076.svg"
+}

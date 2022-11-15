@@ -1,0 +1,8 @@
+{
+    "tokenid": 1102,
+    "eco": "B21",
+    "name": "Sicilian Defense: Halasz Gambit",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. f4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/3pPP2/8/PPP3PP/RNBQKBNR b KQkq f3 0 3",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1102.svg"
+}

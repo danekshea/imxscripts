@@ -1,0 +1,8 @@
+{
+    "tokenid": 3246,
+    "eco": "E39",
+    "name": "Nimzo-Indian Defense: Classical Variation, Berlin Variation, Macieja System",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. Bf4 1/2",
+    "FEN": "rnbq1rk1/p2p1ppp/1p2pn2/2b5/2P2B2/P1N2N2/1PQ1PPPP/R3KB1R b KQ - 1 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3246.svg"
+}

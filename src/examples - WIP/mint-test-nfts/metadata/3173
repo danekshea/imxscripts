@@ -1,0 +1,8 @@
+{
+    "tokenid": 3173,
+    "eco": "E14",
+    "name": "Queen's Indian Defense: Averbakh Variation",
+    "pgn": "1. Nf3 c5 2. b3 Nf6 3. Bb2 e6 4. e3 Be7 5. d4 O-O 6. Bd3 b6 7. O-O Bb7 8. c4 cxd4 9. Nxd4 1/2",
+    "FEN": "rn1q1rk1/pb1pbppp/1p2pn2/8/2PN4/1P1BP3/PB3PPP/RN1Q1RK1 b - - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3173.svg"
+}

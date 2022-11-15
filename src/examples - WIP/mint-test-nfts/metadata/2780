@@ -1,0 +1,8 @@
+{
+    "tokenid": 2780,
+    "eco": "D17",
+    "name": "Slav Defense: Czech Variation, Krause Attack, Fazekas Gambit",
+    "pgn": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. e4 1/2",
+    "FEN": "r2qkb1r/pp2pppp/n1p2n2/4Nb2/P1pPP3/2N5/1P3PPP/R1BQKB1R b KQkq e3 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2780.svg"
+}

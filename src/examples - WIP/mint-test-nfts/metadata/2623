@@ -1,0 +1,8 @@
+{
+    "tokenid": 2623,
+    "eco": "D00",
+    "name": "Blackmar-Diemer Gambit: Bogoljubov Variation, Nimzowitsch Attack",
+    "pgn": "1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Ne5 1/2",
+    "FEN": "rnbqk2r/ppp1ppbp/5np1/4N3/2BP4/2N5/PPP3PP/R1BQK2R b KQkq - 3 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2623.svg"
+}

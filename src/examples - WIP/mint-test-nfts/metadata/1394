@@ -1,0 +1,8 @@
+{
+    "tokenid": 1394,
+    "eco": "B82",
+    "name": "Sicilian Defense: Scheveningen Variation, Matanovic Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/3ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R b KQkq f3 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1394.svg"
+}

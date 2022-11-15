@@ -1,0 +1,8 @@
+{
+    "tokenid": 1820,
+    "eco": "C32",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Tarrasch Variation",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf5 8. g4 O-O 1/2",
+    "FEN": "rn1q1rk1/ppp2ppp/8/2bP1b2/4nPP1/5N2/PPP1Q2P/RNB1KB1R w KQ - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1820.svg"
+}

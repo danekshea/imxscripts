@@ -1,0 +1,8 @@
+{
+    "tokenid": 2901,
+    "eco": "D35",
+    "name": "Queen's Gambit Declined: Exchange, Chameleon Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 Nf8 10. O-O-O 1/2",
+    "FEN": "r1bqrnk1/ppp1bppp/5n2/3p2B1/3P4/2NBP3/PPQ1NPPP/2KR3R b - - 8 10",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2901.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 552,
+    "eco": "A46",
+    "name": "Torre Attack: Wagner Gambit",
+    "pgn": "1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 1/2",
+    "FEN": "rnbqkb1r/pp1p1ppp/4pn2/2p3B1/3PP3/5N2/PPP2PPP/RN1QKB1R b KQkq e3 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/552.svg"
+}

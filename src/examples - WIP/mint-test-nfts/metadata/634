@@ -1,0 +1,8 @@
+{
+    "tokenid": 634,
+    "eco": "A64",
+    "name": "Benoni Defense: Fianchetto Variation, Hastings Defense, Main Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3 O-O 9. O-O a6 10. a4 Nbd7 1 1/2",
+    "FEN": "r1bq1rk1/1p1n1pbp/p2p1np1/2pP4/P7/2N2NP1/1P2PPBP/R1BQ1RK1 w - - 1 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/634.svg"
+}

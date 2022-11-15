@@ -1,0 +1,8 @@
+{
+    "tokenid": 3308,
+    "eco": "E63",
+    "name": "King's Indian Defense: Fianchetto Variation, Panno Variation, Blockade Line",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. d5 Na5 9. Nd2 c5 10. Qc2 e5 1/2",
+    "FEN": "r1bq1rk1/1p3pbp/p2p1np1/n1pPp3/2P5/2N3P1/PPQNPPBP/R1B2RK1 w - e6 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3308.svg"
+}

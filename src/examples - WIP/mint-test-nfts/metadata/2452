@@ -1,0 +1,8 @@
+{
+    "tokenid": 2452,
+    "eco": "C67",
+    "name": "Ruy Lopez: Berlin Defense, Rio de Janeiro Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Re1 Nc5 1 1/2",
+    "FEN": "r1bq1rk1/p1ppbppp/2p5/2n1P3/8/2N2N2/PPP1QPPP/R1B1R1K1 w - - 5 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2452.svg"
+}

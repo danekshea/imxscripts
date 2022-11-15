@@ -1,0 +1,8 @@
+{
+    "tokenid": 1766,
+    "eco": "C29",
+    "name": "Vienna Game: Vienna Gambit, Wurzburger Trap",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5 8. Nxd5 1/2",
+    "FEN": "rnb1kb1r/ppp2ppp/8/3NP2q/8/3P1Nn1/PPP4P/R1BQKB1R b KQkq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1766.svg"
+}

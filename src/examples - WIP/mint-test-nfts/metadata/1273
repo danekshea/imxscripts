@@ -1,0 +1,8 @@
+{
+    "tokenid": 1273,
+    "eco": "B42",
+    "name": "Sicilian Defense: Kan Variation, Gipslis Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 g6 1/2",
+    "FEN": "rnbqkb1r/1p3p1p/p2ppnp1/8/2PNP3/3B4/PP3PPP/RNBQ1RK1 w kq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1273.svg"
+}

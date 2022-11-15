@@ -1,0 +1,8 @@
+{
+    "tokenid": 2284,
+    "eco": "C52",
+    "name": "Italian Game: Evans Gambit, Levenfish Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5 dxe5 9. O-O Bb6 10. Ba3 Na5 1 1/2",
+    "FEN": "r1b1k1nr/pppq1ppp/1b6/n3p3/2B1P3/BQP2N2/P4PPP/RN3RK1 w kq - 4 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2284.svg"
+}

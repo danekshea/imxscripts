@@ -1,0 +1,8 @@
+{
+    "tokenid": 1076,
+    "eco": "B20",
+    "name": "Sicilian Defense: Big Clamp Formation",
+    "pgn": "1. e4 c5 2. d3 Nc6 3. c3 d6 4. f4 1/2",
+    "FEN": "r1bqkbnr/pp2pppp/2np4/2p5/4PP2/2PP4/PP4PP/RNBQKBNR b KQkq f3 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1076.svg"
+}

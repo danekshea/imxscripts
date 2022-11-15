@@ -1,0 +1,8 @@
+{
+    "tokenid": 2289,
+    "eco": "C52",
+    "name": "Italian Game: Evans Gambit, Sanders-Alapin Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. d4 Bd7 1/2",
+    "FEN": "r2qk1nr/pppb1ppp/2np4/b3p3/2BPP3/2P2N2/P4PPP/RNBQ1RK1 w kq - 1 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2289.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3209,
+    "eco": "E21",
+    "name": "Nimzo-Indian Defense: Three Knights Variation, Euwe Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. d5 Ne4 1/2",
+    "FEN": "rnbqk2r/pp1p1ppp/4p3/2pP4/1bP1n3/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 1 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3209.svg"
+}

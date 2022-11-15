@@ -1,0 +1,8 @@
+{
+    "tokenid": 1032,
+    "eco": "B13",
+    "name": "Caro-Kann Defense: Exchange Variation, Rubinstein Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 1/2",
+    "FEN": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2PB4/PP3PPP/RN1QK1NR b KQkq - 2 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1032.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3024,
+    "eco": "D63",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Swiss, Karlsbad Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 a6 8. cxd5 1/2",
+    "FEN": "r1bq1rk1/1ppnbppp/p3pn2/3P2B1/3P4/2N1PN2/PP3PPP/2RQKB1R b K - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3024.svg"
+}

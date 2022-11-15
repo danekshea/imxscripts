@@ -1,0 +1,8 @@
+{
+    "tokenid": 1566,
+    "eco": "C13",
+    "name": "French Defense: Alekhine-Chatard Attack, Albin-Chatard Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 1/2",
+    "FEN": "rnb1k2r/pppn1ppp/4p3/3pP1q1/3P4/2N5/PPP2PP1/R2QKBNR w KQkq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1566.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2023,
+    "eco": "C41",
+    "name": "Philidor Defense: Lion Variation, Shirov Gambit",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Ngf6 5. g4 1/2",
+    "FEN": "r1bqkb1r/pppn1ppp/3p1n2/4p3/3PP1P1/2N2N2/PPP2P1P/R1BQKB1R b KQkq g3 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2023.svg"
+}

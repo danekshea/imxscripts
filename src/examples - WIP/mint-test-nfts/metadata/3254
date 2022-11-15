@@ -1,0 +1,8 @@
+{
+    "tokenid": 3254,
+    "eco": "E42",
+    "name": "Nimzo-Indian Defense: H\u00fcbner Variation, Rubinstein Variation, Main Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 1/2",
+    "FEN": "rnbq1rk1/pp1p1ppp/4pn2/8/1bPP4/P1N5/1P2NPPP/R1BQKB1R b KQ - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3254.svg"
+}

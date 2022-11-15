@@ -1,0 +1,8 @@
+{
+    "tokenid": 2347,
+    "eco": "C56",
+    "name": "Italian Game: Scotch Gambit, Anderssen Attack, Main Line",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8. Nc3 Qa5 9. Nxe4 Be6 10. Bd2 Qd5 1 1/2",
+    "FEN": "r3kb1r/ppp2ppp/2n1b3/3q4/3pN3/5N2/PPPB1PPP/R2QR1K1 w kq - 3 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2347.svg"
+}

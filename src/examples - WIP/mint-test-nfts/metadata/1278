@@ -1,0 +1,8 @@
+{
+    "tokenid": 1278,
+    "eco": "B43",
+    "name": "Sicilian Defense: Kan Variation, Wing Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 1/2",
+    "FEN": "rnbqkbnr/3p1ppp/p3p3/1p6/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq b6 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1278.svg"
+}

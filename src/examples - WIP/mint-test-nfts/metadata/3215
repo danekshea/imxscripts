@@ -1,0 +1,8 @@
+{
+    "tokenid": 3215,
+    "eco": "E23",
+    "name": "Nimzo-Indian Defense: Spielmann Variation, Stahlberg Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxc5 1/2",
+    "FEN": "r1bqk2r/pp1p1ppp/2n1p3/2n5/1bP5/1QN2N2/PP1BPPPP/R3KB1R w KQkq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3215.svg"
+}

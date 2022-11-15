@@ -1,0 +1,8 @@
+{
+    "tokenid": 400,
+    "eco": "A36",
+    "name": "English Opening: Symmetrical Variation, Botvinnik System",
+    "pgn": "1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 1/2",
+    "FEN": "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P1P3/2N3P1/PP1P1PBP/R1BQK1NR b KQkq - 2 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/400.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2212,
+    "eco": "C49",
+    "name": "Four Knights Game: Gunsberg Counterattack",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. Nd5 Nxd5 7. exd5 e4 1/2",
+    "FEN": "r1bq1rk1/pppp1ppp/2n5/1B1P4/1b2p3/5N2/PPPP1PPP/R1BQ1RK1 w - - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2212.svg"
+}

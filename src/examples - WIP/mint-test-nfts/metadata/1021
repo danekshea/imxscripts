@@ -1,0 +1,8 @@
+{
+    "tokenid": 1021,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Edinburgh Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 Qb6 1/2",
+    "FEN": "rnb1kbnr/pp2pppp/1qp5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1021.svg"
+}

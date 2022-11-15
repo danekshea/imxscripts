@@ -1,0 +1,8 @@
+{
+    "tokenid": 1221,
+    "eco": "B32",
+    "name": "Sicilian Defense: L\u00f6wenthal Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 1/2",
+    "FEN": "r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq e6 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1221.svg"
+}

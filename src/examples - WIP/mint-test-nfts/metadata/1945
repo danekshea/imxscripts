@@ -1,0 +1,8 @@
+{
+    "tokenid": 1945,
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Cotter Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 1/2",
+    "FEN": "rnbqkbnr/pppp1N2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1945.svg"
+}

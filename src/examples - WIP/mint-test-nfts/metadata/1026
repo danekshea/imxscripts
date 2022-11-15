@@ -1,0 +1,8 @@
+{
+    "tokenid": 1026,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Mieses Attack, Landau Gambit",
+    "pgn": "1. e4 c6 2. d4 d5 3. Bd3 Nf6 4. e5 Nfd7 5. e6 1/2",
+    "FEN": "rnbqkb1r/pp1npppp/2p1P3/3p4/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1026.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2414,
+    "eco": "C63",
+    "name": "Ruy Lopez: Schliemann Defense, M\u00f6hring Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qd5 1/2",
+    "FEN": "r1b1kbnr/ppp3pp/2N5/1B1q4/4p3/8/PPPP1PPP/R1BQK2R w KQkq - 1 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2414.svg"
+}

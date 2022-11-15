@@ -1,0 +1,8 @@
+{
+    "tokenid": 861,
+    "eco": "B02",
+    "name": "Alekhine Defense: Spielmann Gambit",
+    "pgn": "1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6 1/2",
+    "FEN": "rnbqkb1r/pppnpppp/4P3/3p4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/861.svg"
+}

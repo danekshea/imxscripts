@@ -1,0 +1,8 @@
+{
+    "tokenid": 534,
+    "eco": "A45",
+    "name": "Trompowsky Attack: Poisoned Pawn Variation",
+    "pgn": "1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 1/2",
+    "FEN": "rnb1kb1r/pp1ppppp/1q3n2/2pP2B1/8/2N5/PPP1PPPP/R2QKBNR b KQkq - 2 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/534.svg"
+}

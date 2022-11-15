@@ -1,0 +1,8 @@
+{
+    "tokenid": 1157,
+    "eco": "B26",
+    "name": "Sicilian Defense: Closed",
+    "pgn": "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 1/2",
+    "FEN": "r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NPB1P1/PPP2PBP/R2QK1NR b KQkq - 1 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1157.svg"
+}

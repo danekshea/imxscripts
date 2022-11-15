@@ -1,0 +1,8 @@
+{
+    "tokenid": 1133,
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line",
+    "pgn": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 1/2",
+    "FEN": "rn2kb1r/pp2pppp/5n2/2pq4/3P2b1/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1133.svg"
+}

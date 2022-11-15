@@ -1,0 +1,8 @@
+{
+    "tokenid": 824,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Lasker Variation",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 1/2",
+    "FEN": "rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/824.svg"
+}

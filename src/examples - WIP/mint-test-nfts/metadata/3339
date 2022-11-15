@@ -1,0 +1,8 @@
+{
+    "tokenid": 3339,
+    "eco": "E74",
+    "name": "King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 1/2",
+    "FEN": "rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3339.svg"
+}

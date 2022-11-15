@@ -1,0 +1,8 @@
+{
+    "tokenid": 1061,
+    "eco": "B17",
+    "name": "Caro-Kann Defense: Karpov Variation, Modern Variation, Kasparov Attack",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 1/2",
+    "FEN": "r1bqkb1r/pp1npppp/2p2n2/8/3P4/5NN1/PPP2PPP/R1BQKB1R b KQkq - 4 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1061.svg"
+}

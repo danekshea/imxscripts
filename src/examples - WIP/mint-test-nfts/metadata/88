@@ -1,0 +1,8 @@
+{
+    "tokenid": 88,
+    "eco": "A00",
+    "name": "Polish Opening: Orangutan-Hartlaub Gambit",
+    "pgn": "1. b4 Nf6 2. Bb2 e6 3. a3 c6 4. d3 a5 5. bxa5 d5 6. e4 1/2",
+    "FEN": "rnbqkb1r/1p3ppp/2p1pn2/P2p4/4P3/P2P4/1BP2PPP/RN1QKBNR b KQkq e3 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/88.svg"
+}

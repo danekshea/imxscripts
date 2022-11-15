@@ -1,0 +1,8 @@
+{
+    "tokenid": 3230,
+    "eco": "E31",
+    "name": "Nimzo-Indian Defense: Leningrad Variation, Benoni Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 1/2",
+    "FEN": "rnbqk2r/pp3pp1/3ppn1p/2pP4/1bP4B/2N5/PP2PPPP/R2QKBNR w KQkq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3230.svg"
+}

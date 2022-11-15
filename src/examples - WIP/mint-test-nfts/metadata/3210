@@ -1,0 +1,8 @@
+{
+    "tokenid": 3210,
+    "eco": "E21",
+    "name": "Nimzo-Indian Defense: Three Knights Variation, Korchnoi Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. d5 1/2",
+    "FEN": "rnbqk2r/pp1p1ppp/4pn2/2pP4/1bP5/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3210.svg"
+}

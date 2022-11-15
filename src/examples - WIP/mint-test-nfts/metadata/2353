@@ -1,0 +1,8 @@
+{
+    "tokenid": 2353,
+    "eco": "C57",
+    "name": "Italian Game: Two Knights Defense, Fried Liver Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 1/2",
+    "FEN": "r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2353.svg"
+}

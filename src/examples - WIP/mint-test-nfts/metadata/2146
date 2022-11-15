@@ -1,0 +1,8 @@
+{
+    "tokenid": 2146,
+    "eco": "C45",
+    "name": "Scotch Game: Alekhine Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. e5 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4P3/3N4/8/PPP2PPP/RNBQKB1R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2146.svg"
+}

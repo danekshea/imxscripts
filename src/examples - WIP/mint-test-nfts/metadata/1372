@@ -1,0 +1,8 @@
+{
+    "tokenid": 1372,
+    "eco": "B74",
+    "name": "Sicilian Defense: Dragon Variation, Classical Variation, Stockholm Attack",
+    "pgn": "1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. d4 cxd4 6. Nxd4 Bg7 7. Be3 Nf6 8. Be2 O-O 9. Nb3 Be6 10. O-O Na5 1 1/2",
+    "FEN": "r2q1rk1/pp2ppbp/3pbnp1/n7/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 9 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1372.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3243,
+    "eco": "E37",
+    "name": "Nimzo-Indian Defense: Classical Variation, Noa Variation, San Remo Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6 8. e3 e5 1/2",
+    "FEN": "r1bqk2r/ppp2ppp/2n5/3pp3/2PPn3/P3P3/1PQ2PPP/R1B1KBNR w KQkq - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3243.svg"
+}

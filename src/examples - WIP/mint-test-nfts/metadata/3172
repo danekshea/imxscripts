@@ -1,0 +1,8 @@
+{
+    "tokenid": 3172,
+    "eco": "E13",
+    "name": "Queen's Indian Defense: Kasparov Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7 1/2",
+    "FEN": "rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3172.svg"
+}

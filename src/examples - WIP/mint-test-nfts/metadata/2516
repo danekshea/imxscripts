@@ -1,0 +1,8 @@
+{
+    "tokenid": 2516,
+    "eco": "C79",
+    "name": "Ruy Lopez: Morphy Defense, Steinitz Deferred",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nxe4 1/2",
+    "FEN": "r1bqkb1r/2p2ppp/p1pp4/4p3/3Pn3/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2516.svg"
+}

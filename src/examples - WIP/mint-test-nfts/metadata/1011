@@ -1,0 +1,8 @@
+{
+    "tokenid": 1011,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Advance Variation, Bronstein Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP1NPPP/RNBQKB1R b KQkq - 2 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1011.svg"
+}

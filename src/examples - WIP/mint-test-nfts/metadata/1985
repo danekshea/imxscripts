@@ -1,0 +1,8 @@
+{
+    "tokenid": 1985,
+    "eco": "C40",
+    "name": "Latvian Gambit: Corkscrew Gambit",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Nxe5 Nf6 4. Bc4 fxe4 5. Nf7 Qe7 6. Nxh8 d5 1/2",
+    "FEN": "rnb1kb1N/ppp1q1pp/5n2/3p4/2B1p3/8/PPPP1PPP/RNBQK2R w KQq d6 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1985.svg"
+}

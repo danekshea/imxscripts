@@ -1,0 +1,8 @@
+{
+    "tokenid": 3005,
+    "eco": "D56",
+    "name": "Queen's Gambit Declined: Lasker Defense, Russian Variation",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8. Bxe7 Qxe7 9. Qc2 Nf6 10. Bd3 dxc4 1 1/2",
+    "FEN": "rnb2rk1/ppp1qpp1/4pn1p/8/2pP4/2NBPN2/PPQ2PPP/R3K2R w KQ - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3005.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1369,
+    "eco": "B74",
+    "name": "Sicilian Defense: Dragon Variation, Classical Variation, Mar\u00f3czy Line",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8. Be3 Nc6 9. Nb3 Be6 10. f4 Na5 1/2",
+    "FEN": "r2q1rk1/pp2ppbp/3pbnp1/n7/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 1 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1369.svg"
+}

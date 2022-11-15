@@ -1,0 +1,8 @@
+{
+    "tokenid": 2440,
+    "eco": "C66",
+    "name": "Ruy Lopez: Berlin Defense, Closed Showalter Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bxc6 1/2",
+    "FEN": "r2qk2r/pppbbppp/2Bp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2440.svg"
+}

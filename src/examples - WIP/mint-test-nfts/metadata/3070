@@ -1,0 +1,8 @@
+{
+    "tokenid": 3070,
+    "eco": "D85",
+    "name": "Gr\u00fcnfeld Defense: Exchange Variation, Modern Exchange Variation, Pawn Grab Line",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Rb1 O-O 9. Be2 Nc6 10. d5 Bxc3+ 1/2",
+    "FEN": "r1bq1rk1/pp2pp1p/2n3p1/2pP4/4P3/2b2N2/P3BPPP/1RBQK2R w K - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3070.svg"
+}

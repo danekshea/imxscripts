@@ -1,0 +1,8 @@
+{
+    "tokenid": 3027,
+    "eco": "D64",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 c6 8. Qc2 a6 1/2",
+    "FEN": "r1bq1rk1/1p1nbppp/p1p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R w K - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3027.svg"
+}

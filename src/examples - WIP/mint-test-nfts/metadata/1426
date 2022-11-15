@@ -1,0 +1,8 @@
+{
+    "tokenid": 1426,
+    "eco": "B92",
+    "name": "Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O Be6 1/2",
+    "FEN": "rn1qk2r/1p2bppp/p2pbn2/4p3/4P3/1NN5/PPP1BPPP/R1BQ1RK1 w kq - 4 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1426.svg"
+}

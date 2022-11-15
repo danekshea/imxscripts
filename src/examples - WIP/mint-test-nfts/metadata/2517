@@ -1,0 +1,8 @@
+{
+    "tokenid": 2517,
+    "eco": "C79",
+    "name": "Ruy Lopez: Steinitz Defense Deferred, Boleslavsky Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nxe4 8. Re1 f5 9. dxe5 d5 10. Nc3 1/2",
+    "FEN": "r1bqkb1r/2p3pp/p1p5/3pPp2/4n3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 1 10",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2517.svg"
+}

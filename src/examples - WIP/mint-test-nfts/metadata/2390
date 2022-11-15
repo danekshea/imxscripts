@@ -1,0 +1,8 @@
+{
+    "tokenid": 2390,
+    "eco": "C60",
+    "name": "Ruy Lopez: Cozio Defense, Tartakower Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nge7 7. Nc3 O-O 8. Qd2 d5 1/2",
+    "FEN": "r1bq1rk1/ppp1npbp/2n3p1/1B1p4/3NP3/2N1B3/PPPQ1PPP/R3K2R w KQ d6 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2390.svg"
+}

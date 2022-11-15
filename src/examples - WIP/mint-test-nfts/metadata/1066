@@ -1,0 +1,8 @@
+{
+    "tokenid": 1066,
+    "eco": "B18",
+    "name": "Caro-Kann Defense: Classical Variation, Flohr Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p3b1/8/3P4/6NN/PPP2PPP/R1BQKB1R b KQkq - 4 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1066.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2345,
+    "eco": "C55",
+    "name": "Italian Game: Two Knights Defense, Perreux Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/6N1/2BpP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2345.svg"
+}

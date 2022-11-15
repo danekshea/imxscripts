@@ -1,0 +1,8 @@
+{
+    "tokenid": 3272,
+    "eco": "E53",
+    "name": "Nimzo-Indian Defense: Normal Variation, Gligoric System",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nbd7 1/2",
+    "FEN": "r1bq1rk1/pp1n1ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3272.svg"
+}

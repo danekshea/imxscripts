@@ -1,0 +1,8 @@
+{
+    "tokenid": 3275,
+    "eco": "E54",
+    "name": "Nimzo-Indian Defense: Normal Variation, Gligoric System, Smyslov Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4 Qe7 1/2",
+    "FEN": "rnb2rk1/pp2qppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1 w - - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3275.svg"
+}

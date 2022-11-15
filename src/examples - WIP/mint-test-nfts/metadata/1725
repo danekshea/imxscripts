@@ -1,0 +1,8 @@
+{
+    "tokenid": 1725,
+    "eco": "C25",
+    "name": "Vienna Game: Vienna Gambit, Hamppe-Allgaier Gambit, Thorold Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 Nc6 4. Nc3 g5 5. h4 g4 6. Ng5 h6 7. Nxf7 Kxf7 8. d4 1/2",
+    "FEN": "r1bq1bnr/pppp1k2/2n4p/8/3PPppP/2N5/PPP3P1/R1BQKB1R b KQ d3 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1725.svg"
+}

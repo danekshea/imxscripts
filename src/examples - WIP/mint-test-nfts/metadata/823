@@ -1,0 +1,8 @@
+{
+    "tokenid": 823,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Kloosterboer Gambit",
+    "pgn": "1. e4 d5 2. exd5 c6 3. dxc6 e5 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/2P5/4p3/8/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/823.svg"
+}

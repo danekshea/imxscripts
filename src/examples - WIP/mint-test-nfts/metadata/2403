@@ -1,0 +1,8 @@
+{
+    "tokenid": 2403,
+    "eco": "C61",
+    "name": "Ruy Lopez: Bird Variation, Paulsen Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Ne7 1/2",
+    "FEN": "r1bqkb1r/ppppnppp/8/1B6/3pP3/8/PPPP1PPP/RNBQ1RK1 w kq - 2 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2403.svg"
+}

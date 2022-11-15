@@ -1,0 +1,8 @@
+{
+    "tokenid": 1502,
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Ruisdonk Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Bd3 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/3pP3/3p4/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1502.svg"
+}

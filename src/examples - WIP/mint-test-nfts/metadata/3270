@@ -1,0 +1,8 @@
+{
+    "tokenid": 3270,
+    "eco": "E52",
+    "name": "Nimzo-Indian Defense: Normal Variation, Schlechter Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 1/2",
+    "FEN": "rnbq1rk1/p1p2ppp/1p2pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3270.svg"
+}

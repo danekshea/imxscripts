@@ -1,0 +1,8 @@
+{
+    "tokenid": 2350,
+    "eco": "C56",
+    "name": "Italian Game: Scotch Gambit, Nakhmanson Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n5/8/2Bpn3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 1 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2350.svg"
+}

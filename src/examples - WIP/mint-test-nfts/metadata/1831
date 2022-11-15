@@ -1,0 +1,8 @@
+{
+    "tokenid": 1831,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Boren-Svenonius Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 Bd6 1/2",
+    "FEN": "rnb1k1nr/ppp2ppp/3b4/3B4/4Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 3 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1831.svg"
+}

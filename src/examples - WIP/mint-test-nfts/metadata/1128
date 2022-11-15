@@ -1,0 +1,8 @@
+{
+    "tokenid": 1128,
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation",
+    "pgn": "1. e4 c5 2. c3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1128.svg"
+}

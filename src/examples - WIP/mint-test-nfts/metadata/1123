@@ -1,0 +1,8 @@
+{
+    "tokenid": 1123,
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 d3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/4P3/2Pp4/PP3PPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1123.svg"
+}

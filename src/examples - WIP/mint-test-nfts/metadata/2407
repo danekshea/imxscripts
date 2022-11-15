@@ -1,0 +1,8 @@
+{
+    "tokenid": 2407,
+    "eco": "C62",
+    "name": "Ruy Lopez: Steinitz Defense, Nimzowitsch Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nf6 6. Bxc6 1/2",
+    "FEN": "r2qkb1r/pppb1ppp/2Bp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2407.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3241,
+    "eco": "E36",
+    "name": "Nimzo-Indian Defense: Classical Variation, Noa Variation, Main Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 1/2",
+    "FEN": "rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P1Q5/1P2PPPP/R1B1KBNR w KQkq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3241.svg"
+}

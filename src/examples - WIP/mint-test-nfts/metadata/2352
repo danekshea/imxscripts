@@ -1,0 +1,8 @@
+{
+    "tokenid": 2352,
+    "eco": "C57",
+    "name": "Italian Game: Two Knights Defense, Fegatello Attack, Leonhardt Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke6 8. Nc3 Nb4 9. Qe4 c6 10. a3 Na6 1 1/2",
+    "FEN": "r1bq1b1r/pp4pp/n1p1k3/3np3/2B1Q3/P1N5/1PPP1PPP/R1B1K2R w KQ - 1 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2352.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3010,
+    "eco": "D58",
+    "name": "Queen's Gambit Declined: Tartakower Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 1/2",
+    "FEN": "rnbq1rk1/p1p1bpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3010.svg"
+}

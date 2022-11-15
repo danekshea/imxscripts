@@ -1,0 +1,8 @@
+{
+    "tokenid": 1834,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Classical Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Ne7 5. Nc3 g5 6. d4 Bg7 1/2",
+    "FEN": "rnb1k2r/ppppnpbp/8/6p1/2BPPp1q/2N5/PPP3PP/R1BQ1KNR w kq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1834.svg"
+}

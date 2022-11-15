@@ -1,0 +1,8 @@
+{
+    "tokenid": 65,
+    "eco": "A00",
+    "name": "Kadas Opening: Kadas Gambit",
+    "pgn": "1. h4 d5 2. d4 c5 3. Nf3 cxd4 4. c3 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/3p4/3p3P/2P2N2/PP2PPP1/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/65.svg"
+}

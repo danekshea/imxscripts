@@ -1,0 +1,8 @@
+{
+    "tokenid": 1729,
+    "eco": "C25",
+    "name": "Vienna Game: Vienna Gambit, Steinitz Gambit",
+    "pgn": "1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/3PPp2/2N5/PPP3PP/R1BQKBNR b KQkq d3 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1729.svg"
+}

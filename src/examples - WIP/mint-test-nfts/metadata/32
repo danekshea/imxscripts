@@ -1,0 +1,8 @@
+{
+    "tokenid": 32,
+    "eco": "A00",
+    "name": "Grob Opening: Grob Gambit, Richter-Grob Gambit",
+    "pgn": "1. g4 d5 2. Bg2 c6 3. c4 dxc4 4. b3 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/8/2p3P1/1P6/P2PPPBP/RNBQK1NR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/32.svg"
+}

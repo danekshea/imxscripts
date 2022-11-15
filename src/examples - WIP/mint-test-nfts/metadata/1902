@@ -1,0 +1,8 @@
+{
+    "tokenid": 1902,
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Muzio Gambit Accepted, From's Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qe7 1/2",
+    "FEN": "rnb1kbnr/ppppqp1p/8/8/2B1Pp2/5Q2/PPPP2PP/RNB2RK1 w kq - 1 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1902.svg"
+}

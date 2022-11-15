@@ -1,0 +1,8 @@
+{
+    "tokenid": 3302,
+    "eco": "E62",
+    "name": "King's Indian Defense: Fianchetto Variation, Kavalek Defense",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c6 7. Nc3 Qa5 1/2",
+    "FEN": "rnb2rk1/pp2ppbp/2pp1np1/q7/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3302.svg"
+}

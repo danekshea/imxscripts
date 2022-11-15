@@ -1,0 +1,8 @@
+{
+    "tokenid": 2800,
+    "eco": "D20",
+    "name": "Queen's Gambit Accepted: Old Variation, Christensen Gambit",
+    "pgn": "1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 exd4 5. Qb3 Qe7 6. Nf3 1/2",
+    "FEN": "rnb1kbnr/ppp1qppp/8/8/2Bp4/1Q2PN2/PP3PPP/RNB1K2R b KQkq - 3 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2800.svg"
+}

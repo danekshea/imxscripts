@@ -1,0 +1,8 @@
+{
+    "tokenid": 3234,
+    "eco": "E33",
+    "name": "Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 1/2",
+    "FEN": "r1bqk2r/ppp2ppp/2nppn2/8/1bPP4/2N2N2/PPQ1PPPP/R1B1KB1R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3234.svg"
+}

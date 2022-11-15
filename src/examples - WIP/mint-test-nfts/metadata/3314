@@ -1,0 +1,8 @@
+{
+    "tokenid": 3314,
+    "eco": "E66",
+    "name": "King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c5 7. Nc3 Nc6 8. d5 1/2",
+    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3314.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1047,
+    "eco": "B15",
+    "name": "Caro-Kann Defense: Alekhine Gambit",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/2p2n2/8/3PN3/3B4/PPP2PPP/R1BQK1NR b KQkq - 2 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1047.svg"
+}

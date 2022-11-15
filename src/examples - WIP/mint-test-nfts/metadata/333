@@ -1,0 +1,8 @@
+{
+    "tokenid": 333,
+    "eco": "A16",
+    "name": "English Opening: Anglo-Indian Defense, Anglo-Gr\u00fcnfeld Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nxc3 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/6p1/8/8/2n3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/333.svg"
+}

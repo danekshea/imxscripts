@@ -1,0 +1,8 @@
+{
+    "tokenid": 2121,
+    "eco": "C44",
+    "name": "Scotch Game: Cochrane Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Ne6 5. Bc4 c6 6. O-O Nf6 7. Nxf7 1/2",
+    "FEN": "r1bqkb1r/pp1p1Npp/2p1nn2/8/2B1P3/8/PPP2PPP/RNBQ1RK1 b kq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2121.svg"
+}

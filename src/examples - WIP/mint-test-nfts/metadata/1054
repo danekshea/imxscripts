@@ -1,0 +1,8 @@
+{
+    "tokenid": 1054,
+    "eco": "B15",
+    "name": "Caro-Kann Defense: Tartakower Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1054.svg"
+}

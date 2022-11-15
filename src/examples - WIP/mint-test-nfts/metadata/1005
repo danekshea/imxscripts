@@ -1,0 +1,8 @@
+{
+    "tokenid": 1005,
+    "eco": "B11",
+    "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Retreat Line",
+    "pgn": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3p3b/4P3/2N2N1P/PPPP1PP1/R1BQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1005.svg"
+}

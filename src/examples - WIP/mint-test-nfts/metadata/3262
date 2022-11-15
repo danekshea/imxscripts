@@ -1,0 +1,8 @@
+{
+    "tokenid": 3262,
+    "eco": "E47",
+    "name": "Nimzo-Indian Defense: Normal Variation, Bishop Attack",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 1/2",
+    "FEN": "rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR b KQ - 2 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3262.svg"
+}

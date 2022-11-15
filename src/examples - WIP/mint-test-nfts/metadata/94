@@ -1,0 +1,8 @@
+{
+    "tokenid": 94,
+    "eco": "A00",
+    "name": "Polish Opening: Schuehler Gambit",
+    "pgn": "1. b4 c6 2. Bb2 a5 3. b5 cxb5 4. e4 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/8/pp6/4P3/8/PBPP1PPP/RN1QKBNR b KQkq e3 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/94.svg"
+}

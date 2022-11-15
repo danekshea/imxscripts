@@ -1,0 +1,8 @@
+{
+    "tokenid": 1678,
+    "eco": "C23",
+    "name": "Bishop's Opening: Four Pawns Gambit",
+    "pgn": "1. e4 e5 2. Bc4 Bc5 3. b4 Bxb4 4. f4 exf4 5. Nf3 Be7 6. d4 Bh4+ 7. g3 fxg3 8. O-O gxh2+ 9. Kh1 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/8/8/2BPP2b/5N2/P1P4p/RNBQ1R1K b kq - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1678.svg"
+}

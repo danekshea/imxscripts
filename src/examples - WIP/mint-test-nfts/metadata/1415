@@ -1,0 +1,8 @@
+{
+    "tokenid": 1415,
+    "eco": "B90",
+    "name": "Sicilian Defense: Najdorf Variation, Adams Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 1/2",
+    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1415.svg"
+}

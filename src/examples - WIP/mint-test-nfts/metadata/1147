@@ -1,0 +1,8 @@
+{
+    "tokenid": 1147,
+    "eco": "B23",
+    "name": "Sicilian Defense: Grand Prix Attack, Schofman Variation",
+    "pgn": "1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 1/2",
+    "FEN": "r1bqk1nr/pp1p1pbp/2n1p1p1/2p2P2/2B1P3/2N2N2/PPPP2PP/R1BQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1147.svg"
+}

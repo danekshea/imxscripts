@@ -1,0 +1,8 @@
+{
+    "tokenid": 2678,
+    "eco": "D01",
+    "name": "Veresov Opening: Malich Gambit",
+    "pgn": "1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. d5 1/2",
+    "FEN": "rnbqkb1r/pp2pp1p/5p2/2pP4/4p3/2N5/PPP2PPP/R2QKBNR b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2678.svg"
+}

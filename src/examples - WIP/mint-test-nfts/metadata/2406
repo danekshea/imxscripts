@@ -1,0 +1,8 @@
+{
+    "tokenid": 2406,
+    "eco": "C62",
+    "name": "Ruy Lopez: Steinitz Defense, Center Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. O-O 1/2",
+    "FEN": "r1bqkbnr/ppp2ppp/2np4/1B6/3pP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2406.svg"
+}

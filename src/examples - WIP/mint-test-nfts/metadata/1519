@@ -1,0 +1,8 @@
+{
+    "tokenid": 1519,
+    "eco": "C07",
+    "name": "French Defense: Tarrasch Variation, Chistyakov Defense, Modern Line",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 1/2",
+    "FEN": "r1b1kb1r/1p3ppp/p2qpn2/8/2BN4/8/PPP2PPP/R1BQ1RK1 w kq - 0 11",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1519.svg"
+}

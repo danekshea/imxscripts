@@ -1,0 +1,8 @@
+{
+    "tokenid": 3288,
+    "eco": "E60",
+    "name": "King's Indian Defense: Fianchetto Variation, Pterodactyl Variation",
+    "pgn": "1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 c5 5. Bg2 Qa5+ 1/2",
+    "FEN": "rnb1k2r/pp1pppbp/5np1/q1p5/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 2 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3288.svg"
+}

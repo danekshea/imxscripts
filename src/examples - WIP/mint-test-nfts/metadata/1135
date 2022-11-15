@@ -1,0 +1,8 @@
+{
+    "tokenid": 1135,
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation, Stoltz Attack",
+    "pgn": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 1/2",
+    "FEN": "r1bqkb1r/pp1ppppp/1nn5/2p1P3/8/1BP2N2/PP1P1PPP/RNBQK2R b KQkq - 6 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1135.svg"
+}

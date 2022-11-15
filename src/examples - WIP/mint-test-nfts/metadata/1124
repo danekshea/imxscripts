@@ -1,0 +1,8 @@
+{
+    "tokenid": 1124,
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 d5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/3p4/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq d6 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1124.svg"
+}

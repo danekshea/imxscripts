@@ -1,0 +1,8 @@
+{
+    "tokenid": 1813,
+    "eco": "C32",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Alapin Variation",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf2+ 8. Kd1 Qxd5+ 9. Nfd2 1/2",
+    "FEN": "rnb1k2r/ppp2ppp/8/3q4/4nP2/8/PPPNQbPP/RNBK1B1R b kq - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1813.svg"
+}

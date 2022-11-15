@@ -1,0 +1,8 @@
+{
+    "tokenid": 2323,
+    "eco": "C55",
+    "name": "Italian Game: Giuoco Piano",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 d6 1/2",
+    "FEN": "r1bqk2r/ppp2ppp/3p1n2/4p1B1/2BnP3/8/PPP2PPP/RN1Q1RK1 w kq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2323.svg"
+}

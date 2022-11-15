@@ -1,0 +1,8 @@
+{
+    "tokenid": 1144,
+    "eco": "B23",
+    "name": "Sicilian Defense: Closed, Korchnoi Defense",
+    "pgn": "1. e4 c5 2. Nc3 e6 3. g3 d5 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2pp4/4P3/2N3P1/PPPP1P1P/R1BQKBNR w KQkq d6 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1144.svg"
+}

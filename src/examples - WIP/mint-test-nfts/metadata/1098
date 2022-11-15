@@ -1,0 +1,8 @@
+{
+    "tokenid": 1098,
+    "eco": "B20",
+    "name": "Sicilian Defense: Wing Gambit, Romanian Defense",
+    "pgn": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2 Nc6 7. c4 Qe6 1/2",
+    "FEN": "r1b1kbnr/pp3ppp/2n1q3/4p3/1pP5/P4N2/1B1P1PPP/RN1QKB1R w KQkq - 1 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1098.svg"
+}

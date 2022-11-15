@@ -1,0 +1,8 @@
+{
+    "tokenid": 2029,
+    "eco": "C41",
+    "name": "Philidor Defense: Nimzowitsch Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/3p1n2/4P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2029.svg"
+}

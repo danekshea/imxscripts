@@ -17,27 +17,33 @@ async function main(ownerPrivateKey:string, network:string) {
     //TODO: add error handling for the user not having enough funds in wallet
     const deployedContract = await deployContract(ownerPrivateKey, 'Asset', 'IMX Chess', 'IMXC', network, '5000000', '10000000000');
     console.log('Deployed contract address: ' + deployedContract.address)
-    console.log('Now we wait 3 minutes while the contract deploys...Feel free to check for it here: https://goerli.etherscan.io/address/' + deployedContract.address)
+    console.log('Now we wait 3 minutes while the contract deploys...Check for it here: https://goerli.etherscan.io/address/' + deployedContract.address)
 
-    //Give the new contract time to deploy, 3 minutes should be sufficient
-    await new Promise(f => setTimeout(f, 180000));
+    // //Give the new contract time to deploy, 3 minutes should be sufficient
+    // await new Promise(f => setTimeout(f, 180000));
 
-    //Create a new project
-    const project = await createProject(ownerPrivateKey, 'Dane\'s Test Projects', 'Dane\'s Evil company', 'dane@immutable.com', network)
-    console.log('Created project with id:', project.id)
+    // //Create a new project
+    // const project = await createProject(ownerPrivateKey, 'Dane\'s Test Projects', 'Dane\'s Evil company', 'dane@immutable.com', network)
+    // console.log('Created project with id:', project.id)
 
-    //Give API time to register new project
-    await new Promise(f => setTimeout(f, 1000));
+    // //Give API time to register new project
+    // await new Promise(f => setTimeout(f, 1000));
  
-    //Create collection with the deployed contract and project id
-    const collection = await createCollection(ownerPrivateKey, deployedContract.address, 'IMX Chess', project.id, network);
-    console.log('Created collection with address:', collection.address)
+    // //Create collection with the deployed contract and project id
+    // const collection = await createCollection(ownerPrivateKey, deployedContract.address, 'IMX Chess', project.id, network);
+    // console.log('Created collection with address:', collection.address)
 
-    //Give API time to register new collection
-    await new Promise(f => setTimeout(f, 1000));
+    // //Give API time to register new collection
+    // await new Promise(f => setTimeout(f, 1000));
+
+    // //Create token array
+    // const tokens = [{
+    //   id: 1,
+    //   blueprint: 'test blueprint'
+    // }]
 
     // //Mint an asset
-    // const mintresponse = await mintV2(ownerPrivateKey, '1', collection.address, 'test blueprint', await deployedContract.signer.getAddress(), network)
+    // const mintresponse = await mintV2(ownerPrivateKey, tokens, collection.address, await deployedContract.signer.getAddress(), network)
     // console.log('Mint response:');
     // console.log(mintresponse.results);
 

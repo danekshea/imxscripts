@@ -1,0 +1,8 @@
+{
+    "tokenid": 2932,
+    "eco": "D42",
+    "name": "Queen's Gambit Declined: Semi-Tarrasch Defense, Main Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 1/2",
+    "FEN": "r1bqkb1r/pp3ppp/2n1p3/2pn4/3P4/2NBPN2/PP3PPP/R1BQK2R b KQkq - 2 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/2932.svg"
+}

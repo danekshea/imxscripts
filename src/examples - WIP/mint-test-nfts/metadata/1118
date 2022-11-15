@@ -1,0 +1,8 @@
+{
+    "tokenid": 1118,
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 1/2",
+    "FEN": "r1bqkbnr/pp3ppp/2npp3/8/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 7",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1118.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1101,
+    "eco": "B21",
+    "name": "Sicilian Defense: Coles Sicilian Gambit",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Bc4 1/2",
+    "FEN": "r1bqkb1r/pp1ppppp/2n2n2/8/2B1P3/8/PPP2PPP/RNBQK1NR b KQkq - 4 5",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1101.svg"
+}

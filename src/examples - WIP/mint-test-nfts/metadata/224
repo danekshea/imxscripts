@@ -1,0 +1,8 @@
+{
+    "tokenid": 224,
+    "eco": "A05",
+    "name": "King's Indian Attack: Wahls Defense",
+    "pgn": "1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 1/2",
+    "FEN": "rnbq1rk1/ppp1ppbp/5np1/3p4/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w - d6 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/224.svg"
+}

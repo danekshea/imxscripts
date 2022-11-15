@@ -1,0 +1,8 @@
+{
+    "tokenid": 1230,
+    "eco": "B33",
+    "name": "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 1/2",
+    "FEN": "r1bqkb1r/pp1p1ppp/2N2n2/4p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1230.svg"
+}

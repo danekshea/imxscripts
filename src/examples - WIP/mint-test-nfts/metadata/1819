@@ -1,0 +1,8 @@
+{
+    "tokenid": 1819,
+    "eco": "C32",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Charousek Variation",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 Qxd5 7. Nd2 f5 8. g4 1/2",
+    "FEN": "rnb1kb1r/ppp3pp/8/3q1p2/4nPP1/8/PPPNQ2P/R1B1KBNR b KQkq g3 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1819.svg"
+}

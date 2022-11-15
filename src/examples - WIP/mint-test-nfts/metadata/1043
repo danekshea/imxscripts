@@ -1,0 +1,8 @@
+{
+    "tokenid": 1043,
+    "eco": "B14",
+    "name": "Caro-Kann Defense: Panov Attack, Fianchetto Defense",
+    "pgn": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 1/2",
+    "FEN": "rnbqkb1r/pp2pp1p/5np1/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1043.svg"
+}

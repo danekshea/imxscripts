@@ -1,0 +1,8 @@
+{
+    "tokenid": 3207,
+    "eco": "E21",
+    "name": "Nimzo-Indian Defense: Romanishin Variation, English Hybrid",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. cxd5 Nxd5 1/2",
+    "FEN": "rnbq1rk1/pp3ppp/4p3/3n4/1b1N4/2N3P1/PP2PPBP/R1BQK2R w KQ - 0 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3207.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1265,
+    "eco": "B40",
+    "name": "Sicilian Defense: Pin Variation, Koch Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 1/2",
+    "FEN": "rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1265.svg"
+}

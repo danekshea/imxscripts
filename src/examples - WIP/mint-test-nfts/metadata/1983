@@ -1,0 +1,8 @@
+{
+    "tokenid": 1983,
+    "eco": "C40",
+    "name": "Latvian Gambit: Behting Variation",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. Nf7 Qxg2 6. Rf1 d5 7. Nxh8 Nf6 1/2",
+    "FEN": "rnb1kb1N/ppp3pp/5n2/3p4/2B1p3/8/PPPP1PqP/RNBQKR2 w Qq - 1 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1983.svg"
+}

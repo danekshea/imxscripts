@@ -1,0 +1,8 @@
+{
+    "tokenid": 1330,
+    "eco": "B58",
+    "name": "Sicilian Defense: Classical Variation, Dragon Transfer",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 Nxd4 7. Qxd4 g6 1/2",
+    "FEN": "r1bqkb1r/pp2pp1p/3p1np1/8/3QP3/2N5/PPP1BPPP/R1B1K2R w KQkq - 0 8",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1330.svg"
+}

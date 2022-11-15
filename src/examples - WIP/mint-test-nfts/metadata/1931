@@ -1,0 +1,8 @@
+{
+    "tokenid": 1931,
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Allgaier, Cook Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 d5 8. Bxf4 dxe4 9. Bc4+ Kg7 10. Be5+ 1/2",
+    "FEN": "rnbq1bnr/ppp3k1/7p/4B3/2BPp1pP/8/PPP3P1/RN1QK2R b KQ - 3 10",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/1931.svg"
+}

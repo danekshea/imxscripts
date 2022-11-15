@@ -1,0 +1,8 @@
+{
+    "tokenid": 3023,
+    "eco": "D63",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Pillsbury Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 b6 8. cxd5 exd5 9. Bd3 1/2",
+    "FEN": "r1bq1rk1/p1pnbppp/1p3n2/3p2B1/3P4/2NBPN2/PP3PPP/2RQK2R b K - 1 9",
+    "image_url": "ipfs://bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga/3023.svg"
+}
