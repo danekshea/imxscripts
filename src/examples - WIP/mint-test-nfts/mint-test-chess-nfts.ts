@@ -4,31 +4,36 @@ import yargs from 'yargs';
 
 async function main(ownerPrivateKey: string, network:string): Promise<void> {
     
-    //Make sure the contract is deployed and that you have set the metadata url to https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/
+    //Make sure the contract is deployed and that you have set the metadata url to https://github.com/danekshea/imxscripts/blob/master/src/examples%20-%20WIP/mint-test-nfts/metadata/
     
     //Starting tokenID
-    let tokenid = 1101;
+    let tokenid = 1;
 
     //Total tokens to mint
-    let tokenmax = 3500;
+    let tokencount = 3395;
 
     //Mints per batch
     const batchsize = 200;
 
-    //how many batches to do
-    const batchcount = 3;
-
-    //Delays between mint requests, recommendation is >200
+    //Delays between mint requests, recommendation is >200, at 200ms, we have 5 RPS
     const requestdelays = 200;
 
     //IPFS Blueprint CID
-    const CID = 'bafybeiggjjzuikdbjdbsshld5dfu4t2sp752cfez2fcxvptc3tsupvjaga'
+    const CID = 'bafybeihj3uuw24fioheuxkpupgnnxx44vdezzmo5fr7m6dv3dfjgawvcwy'
 
     //Token address for the collection you want to mint to
-    const tokenAddress = '0xfE5a39d418Ff2512651BC445b9b1Ba2EaA75CE18';
+    const tokenAddress = '0xbE5ffE2E518EEc8692Cc5430377C4864155f052b';
 
     //Receiver address
     const receiver = '0xfaDcF1dEe4D008E02e9E97513081C320Ac2748B3';
+
+    //calculate the amount of batches
+    const batchcount = Math.floor(tokencount/batchsize);
+    console.log(batchcount);
+
+    //calculate the remainder after the batches have been created
+    const remainder = tokencount % batchsize;
+    console.log(remainder);
 
     //loop for the batches
     let i: number = 0;
@@ -38,7 +43,6 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
 
       let j: number = 0;
       while(j < batchsize) {
-        
         //Create the token array according to the batch size
         tokens[j] = {
           id: (tokenid + j).toString(),
@@ -48,7 +52,7 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
       }
       tokenid = tokenid + j;
 
-      //Mint an asset
+      //Mint the batch
       const result = await mintV2(ownerPrivateKey, tokens, tokenAddress, receiver, network);
       console.log(result)
 
@@ -57,8 +61,24 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
 
       i++;
     }
-}
+    console.log('tokenid after batches complete: ' + tokenid);
+    const tokens = [];
 
+    //Create the last remainder tokens which didn't get included in a batch
+    let k: number = 0;
+    while(k < remainder) {
+      //Create the token array according to the batch size
+      tokens[k] = {
+        id: (tokenid + k).toString(),
+        blueprint: 'ipfs://' + CID + '/' + (tokenid + k).toString(),
+      };
+      k++;
+    }
+
+    //Mint the remainder batch
+    const result = await mintV2(ownerPrivateKey, tokens, tokenAddress, receiver, network);
+    console.log(result)
+}
 
 const argv = yargs(process.argv.slice(2))
   .usage('Usage: -k <PRIVATE_KEY> --network <NETWORK>')
