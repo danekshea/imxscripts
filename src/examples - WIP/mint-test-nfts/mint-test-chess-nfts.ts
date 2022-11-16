@@ -7,10 +7,10 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
     //Make sure the contract is deployed and that you have set the metadata url to https://github.com/danekshea/imxscripts/blob/master/src/examples%20-%20WIP/mint-test-nfts/metadata/
     
     //Starting tokenID
-    let tokenid = 1201;
+    let tokenid = 1;
 
     //Total tokens to mint
-    let tokencount = 2195;
+    let tokencount = 3395;
 
     //Mints per batch
     const batchsize = 200;
