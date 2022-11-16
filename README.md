@@ -110,7 +110,7 @@ npx ts-node ./src/post/create-project.ts \
   --network <NETWORK>
 ```
 
-#### Creation collection without optional parameters metadata_api_url, description, icon_url, collection_image_url
+#### Create collection without optional parameters metadata_api_url, description, icon_url, collection_image_url
 
 ```
 npx ts-node ./src/post/create-collection.ts \
