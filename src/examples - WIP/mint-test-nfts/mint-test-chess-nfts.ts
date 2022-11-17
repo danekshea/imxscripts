@@ -67,7 +67,6 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
     //Create the last remainder tokens which didn't get included in a batch
     let k: number = 0;
     while(k < remainder) {
-      //Create the token array according to the batch size
       tokens[k] = {
         id: (tokenid + k).toString(),
         blueprint: 'ipfs://' + CID + '/' + (tokenid + k).toString(),
