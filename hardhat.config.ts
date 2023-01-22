@@ -1,7 +1,7 @@
 require("@nomiclabs/hardhat-waffle");
 import "@nomiclabs/hardhat-etherscan";
 import * as dotenv from "dotenv";
-dotenv.config({ path: __dirname+'/.env' });
+dotenv.config({ path: '../../.env' });
 
 // Go to https://www.alchemyapi.io, sign up, create
 // a new App in its dashboard, and replace "KEY" with its key
