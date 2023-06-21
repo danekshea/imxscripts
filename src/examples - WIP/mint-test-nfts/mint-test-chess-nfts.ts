@@ -7,10 +7,10 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
     //Make sure the contract is deployed and that you have set the metadata url to https://github.com/danekshea/imxscripts/blob/master/src/examples%20-%20WIP/mint-test-nfts/metadata/
     
     //Starting tokenID
-    let tokenid = 1;
+    let tokenid = 10000;
 
     //Total tokens to mint
-    let tokencount = 3395;
+    let tokencount = 20;
 
     //Mints per batch
     const batchsize = 200;
@@ -22,10 +22,10 @@ async function main(ownerPrivateKey: string, network:string): Promise<void> {
     const CID = 'bafybeihj3uuw24fioheuxkpupgnnxx44vdezzmo5fr7m6dv3dfjgawvcwy'
 
     //Token address for the collection you want to mint to
-    const tokenAddress = '0x43b2a84416bdad7091148a97f4c974dc0c2f0227';
+    const tokenAddress = '0x82633202e463d7a39e6c03a843f0f4e83b7e9aa3';
 
     //Receiver address
-    const receiver = '0xfaDcF1dEe4D008E02e9E97513081C320Ac2748B3';
+    const receiver = '0x42c2d104c05a9889d79cdcd82f69d389ea24db9a';
 
     //calculate the amount of batches
     const batchcount = Math.floor(tokencount/batchsize);

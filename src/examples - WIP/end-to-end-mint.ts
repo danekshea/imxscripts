@@ -30,30 +30,30 @@ async function main(ownerPrivateKey:string, network:string) {
     await new Promise(f => setTimeout(f, 3000));
  
     //Create collection with the deployed contract and project id
-    const collection = await createCollection(ownerPrivateKey, deployedContract.address, 'IMX Chess', project.id, network);
+    const collection = await createCollection(ownerPrivateKey, '0x80baDb2D46D9b5f9F0c3a4Ed6A5CFE9Ff7073beb', 'IMX Chess', project.id, network);
     console.log('Created collection with address:', collection.address)
 
     //Give API time to register new collection
     await new Promise(f => setTimeout(f, 3000));
 
-    //Create token array
-    const tokens = [{
-      id: 1,
-      blueprint: 'test blueprint'
-    }]
+    // //Create token array
+    // const tokens = [{
+    //   id: 1,
+    //   blueprint: 'test blueprint'
+    // }]
 
-    //Mint an asset
-    const mintresponse = await mintV2(ownerPrivateKey, tokens, collection.address, await deployedContract.signer.getAddress(), network)
-    console.log('Mint response:');
-    console.log(mintresponse.results);
+    // //Mint an asset
+    // const mintresponse = await mintV2(ownerPrivateKey, tokens, collection.address, await deployedContract.signer.getAddress(), network)
+    // console.log('Mint response:');
+    // console.log(mintresponse.results);
 
-    //Give API time to register the new mint
-    await new Promise(f => setTimeout(f, 3000));
+    // //Give API time to register the new mint
+    // await new Promise(f => setTimeout(f, 3000));
 
-    //Fetch mint
-    const fetchmint = await getMint(mintresponse.results[0].tx_id);
-    console.log('Fetch mint:');
-    console.log(fetchmint);
+    // //Fetch mint
+    // const fetchmint = await getMint(mintresponse.results[0].tx_id);
+    // console.log('Fetch mint:');
+    // console.log(fetchmint);
 }
 
 const argv = yargs(process.argv.slice(2))
